@@ -9,7 +9,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorgithub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-- 🌎 Apaixonado pela Engenharia de Dados
+- 🌎 Apaixonado pela Engenharia de Dados;
 - 👨‍💻 Estudante de Engenharia de Software (Com especialização em DADOS);
 - ⏰ Estudo entre 10 a 14 horas diariamente;
 - 🧐 Desenvolvo Projetos(Repositórios Locais) em .MD do início ao avançado sobre o que estou aprendendo; 
