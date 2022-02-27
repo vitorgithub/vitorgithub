@@ -1,4 +1,4 @@
-# **Seja sua própria inspiração, ídolo, professor e melhor amigo!**
+# **Seja seu próprio ídolo, professor e melhor amigo!**
 
 <div>
    <a href = https://www.linkedin.com/in/vitorgithub><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -8,6 +8,13 @@
    <a href="https://beacons.ai/vitorgithub">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorgithub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+
+- 🌎 Apaixonado pela Engenharia de Dados
+- 👨‍💻 Estudante de Engenharia de Software (Com especialização em DADOS);
+- ⏰ Estudo entre 10 a 14 horas diariamente;
+- 🧐 Desenvolvo Projetos(Repositórios Locais) em .MD do início ao avançado sobre o que estou aprendendo; 
+- 🔎 Extremente curioso, detalhista e persistente;
+- 🚀 "Nosso nível de sucesso sempre estará interligado ao nosso desenvolvimento pessoal!"
 
      
 ### My personal ROADMAP:
