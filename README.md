@@ -17,7 +17,7 @@
 - 🚀 "Nosso nível de sucesso sempre estará interligado ao nosso desenvolvimento pessoal!"
 
      
-### My personal ROADMAP:
+### My ROADMAP:
 
      
 | SKILLS (Habilidades)                                | Conceitos:                                                                       | Observações:                                          |
