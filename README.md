@@ -16,7 +16,7 @@
 - 🚀 **Seja seu próprio ídolo, professor e melhor amigo!**
 
      
-### My ROADMAP:
+### ROADMAP:
 
      
 | SKILLS (Habilidades)                                | Conceitos:                                                                       | Observações:                                          |
