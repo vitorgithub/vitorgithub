@@ -12,10 +12,10 @@
 ## Seja seu próprio ídolo, professor e melhor amigo!
       
 - 🌎 **```Apaixonado pela Engenharia de Software (Com especialização em DADOS);```**
-- ⏰ **```Estudo entre 10 a 14 horas diariamente;```**
 - 🧐 **```Desenvolvo PROJETOS(Documentos) em .MD, sobre tudo o que estou aprendendo;```** 
 - 🔎 **```Autodidata, analítico, multidisciplinar, detalhista, persistente e visionário;```**
-     
+- ⏰ **```Estudo entre 10 a 14 horas diariamente;```**
+      
 ### ROADMAP:
      
 | SKILLS (Habilidades)                                | Conceitos:                                                                       | Observações:                                          |
