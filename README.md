@@ -9,9 +9,11 @@
 ## Seja seu próprio ídolo, professor e melhor amigo!
       
 - 🌎 **```Apaixonado pela Engenharia de Software (Com especialização em DADOS);```**
-- 🧐 **```Desenvolvo PROJETOS(Documentos) em .MD, sobre tudo o que estou aprendendo;```** 
 - 🔎 **```Autodidata, analítico, multidisciplinar, detalhista, persistente e visionário;```**
 - ⏰ **```Estudo entre 10 a 14 horas diariamente;```**
+- 🧐 **```Desenvolvo documentos: (Pesquisando, editando e criando tabelas), pois facilita a absorção de conteúdo;```** 
+- 📖 **```Minhas referências: (Documentações oficiais, cursos qualificados e livros), além de obter feedbacks de profissionais com experiência);```** 
+
       
 ### ROADMAP:
      
