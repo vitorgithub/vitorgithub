@@ -15,7 +15,6 @@
 - ⏰ **```Estudo entre 10 a 14 horas diariamente;```**
 - 🧐 **```Desenvolvo PROJETOS(Documentos) em .MD, sobre tudo o que estou aprendendo;```** 
 - 🔎 **```Autodidata, analítico, multidisciplinar, detalhista, persistente e visionário;```**
-- 🚀 **```Seja seu próprio ídolo, professor e melhor amigo!```**
      
 ### ROADMAP:
      
