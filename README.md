@@ -8,7 +8,9 @@
    <a href="https://beacons.ai/vitorgithub">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorgithub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
-
+      
+## Seja seu próprio ídolo, professor e melhor amigo!
+      
 - 🌎 **```Apaixonado pela Engenharia de Software (Com especialização em DADOS);```**
 - ⏰ **```Estudo entre 10 a 14 horas diariamente;```**
 - 🧐 **```Desenvolvo PROJETOS(Documentos) em .MD, sobre tudo o que estou aprendendo;```** 
