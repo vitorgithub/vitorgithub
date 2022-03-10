@@ -1,12 +1,9 @@
-# **Nosso nível de sucesso sempre estará interligado ao nosso desenvolvimento pessoal!**
+## **Nosso nível de sucesso sempre estará interligado ao nosso desenvolvimento pessoal!**
 
-<div>
+<div align="center">
    <a href = https://www.linkedin.com/in/vitorgithub><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href = https://discord.gg/pEuu5B7AEg><img src ="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-     
-<br><br>
-   <a href="https://beacons.ai/vitorgithub">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorgithub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <a href = https://discord.gg/pEuu5B7AEg><img src ="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"   
+<br><br><img src = "https://activity-graph.herokuapp.com/graph?username=Vitorgithub&theme=xcode&hide_border=true&area=true&bg_color=308"/>
 </div>
       
 ## Seja seu próprio ídolo, professor e melhor amigo!
