@@ -1,5 +1,3 @@
-## **Nosso nível de sucesso sempre estará interligado ao nosso desenvolvimento pessoal!**
-
 <div align="center">
    <a href = https://www.linkedin.com/in/vitorgithub><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = https://discord.gg/pEuu5B7AEg><img src ="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"   
@@ -11,8 +9,8 @@
 - 🌎 **```Apaixonado pela Engenharia de Software (Com especialização em DADOS);```**
 - 🔎 **```Autodidata, analítico, multidisciplinar, detalhista, persistente e visionário;```**
 - ⏰ **```Estudo entre 10 a 14 horas diariamente;```**
-- 🧐 **```Desenvolvo documentos: (Pesquisando, editando e criando tabelas), pois facilita a absorção de conteúdo;```** 
-- 📖 **```Minhas referências: (Documentações oficiais, cursos qualificados e livros), além de obter feedbacks de profissionais com experiência);```** 
+- 🧐 **```Desenvolvo documentos: (Pesquisando, editando e criando tabelas);```** 
+- 📖 **```Minhas referências: (Documentações oficiais, cursos qualificados e livros);```** 
 
       
 ### ROADMAP:
