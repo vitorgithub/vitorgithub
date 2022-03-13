@@ -1,6 +1,6 @@
 <div align="center">
    <a href = https://www.linkedin.com/in/vitorgithub><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href = https://discord.gg/pEuu5B7AEg><img src ="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"   
+   <a href = https://discord.gg/pEuu5B7AEg><img src ="https://img.shieldStrs.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"   
 <br><br><img src = "https://activity-graph.herokuapp.com/graph?username=Vitorgithub&theme=xcode&hide_border=true&area=true&bg_color=308"/>
 </div>
       
@@ -35,7 +35,7 @@
 | **DATA WARE & LAKEHOUSES:**                               | <Br> ➥ Google BigQuery <Br> ➥ Azure Synapse <br> ➥ Amazon Redshift <br> ➥ Snowflake |  |
 | **OBJECT STORAGE:** | <br>➥ AWS S3 <br> ➥ AZURE BLOB STORAGE <BR> ➥ GOOGLE CLOUD STORAGE |
 | **CLUSTER COMPUTING FUNDAMENTALS:** | <br>➥ Apache Hadoop <br> ➥ HDFS <br> ➥ MapReduce <br> ➥ Managed Hadoop <br> <br> ➥ Azure Data Lake <br> ➥ Amazon EMR <br> ➥ Google Dataproc | |
-| **DATA PROCESSING:** | <br>**BATCH:** <br> ➥ Data build tool <br> ➥ Apache Pig<br><br> **Hybrid:** <br> ➥ Apache Spark <br> ➥ Apache Beam <br> ➥ Apache Flink <br><br> ➥ **Streaming:** <br> ➥ Apache Kafka <br> ➥ Apache Storm <br> ➥ Amazon Kinesis - Opcional | | 
+| **DATA PROCESSING:** | <br>**BATCH:** <br> ➥ Data build tool <br> ➥ Apache Pig<br><br> **HYBRID:** <br> ➥ Apache Spark <br> ➥ Apache Beam <br> ➥ Apache Flink <br><br> **STREAMING:** <br> ➥ Apache Kafka <br> ➥ Apache Storm <br> ➥ Amazon Kinesis - Opcional | | 
 | **MESSAGING:** | <br>➥ RabbitMQ <br> ➥ Azure Service Bus <br> Google PubSub <br> ➥ Amazon SNS & SQS | |
 | **WorkFlow Scheduling:** | <br>➥ Apache Airflow <br> ➥ Google Composer (Is a managed Apache Airflow Service on Google Cloud Plataform)| |
 | **Monitoring DATA PIPELINES:** | <br>➥ Prometheus <br> ➥ Datadog <br> ➥ Sentry | |
