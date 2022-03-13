@@ -35,7 +35,7 @@
 | **OBJECT STORAGE:** | <br>➥ AWS S3 <br> ➥ AZURE BLOB STORAGE <BR> ➥ GOOGLE CLOUD STORAGE |
 | **CLUSTER COMPUTING FUNDAMENTALS:** | <br>➥ Apache Hadoop <br> ➥ HDFS <br> ➥ MapReduce <br> ➥ Managed Hadoop <br> <br> ➥ Azure Data Lake <br> ➥ Amazon EMR <br> ➥ Google Dataproc | |
 | **DATA PROCESSING:** | <br>**BATCH:** <br> ➥ Data build tool <br> ➥ Apache Pig<br><br> **HYBRID:** <br> ➥ Apache Spark <br> ➥ Apache Beam <br> ➥ Apache Flink <br><br> **STREAMING:** <br> ➥ Apache Kafka <br> ➥ Apache Storm <br> ➥ Amazon Kinesis - Opcional | | 
-| **MESSAGING:** | <br>➥ RabbitMQ <br> ➥ Azure Service Bus <br> Google PubSub <br> ➥ Amazon SNS & SQS | |
+| **MESSAGING:** | <br>➥ RabbitMQ <br> ➥ Azure Service Bus <br> ➥ Google PubSub <br> ➥ Amazon SNS & SQS | |
 | **WorkFlow Scheduling:** | <br>➥ Apache Airflow <br> ➥ Google Composer (Is a managed Apache Airflow Service on Google Cloud Plataform)| |
 | **Monitoring DATA PIPELINES:** | <br>➥ Prometheus <br> ➥ Datadog <br> ➥ Sentry | |
 | **IaC:** | <br>**CONTAINERS:** <br>➥ Docker <br><br>  **CONFIGURATION MANAGEMENT:** <br> **➥** Ansible <br><Br>**CONTAINER ORCHESTRATION** <br> ➥ Kubernetes - (HELM) <br> ➥ GKE <br><Br>   **INFRASTRUCTURE PROVISIONING:** <Br> ➥ Terraform <br><br> **CLUSTERING**<br>➥ Apache Spark(INFRA) <br> ➥ Yarn <Br> ➥ Replicas(MONGO) <br> ➥ Sharding(ElasticSearch)  | **SERVICE MESH:** <br> **➥** Istio
