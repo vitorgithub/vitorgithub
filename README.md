@@ -1,6 +1,6 @@
 <div align="center">
    <a href = https://www.linkedin.com/in/vitorgithub><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<br><br><img src = "https://activity-graph.herokuapp.com/graph?username=Vitorgithub&theme=xcode&hide_border=true&area=true&bg_color=308"/>
+<br><br><img src = "ttps://activity-graph.herokuapp.com/graph?username=Vitorgithub&theme=xcode&hide_border=true&area=true&bg_color=308"/>
 </div>
       
 ## Seja seu próprio ídolo, professor e melhor amigo!
