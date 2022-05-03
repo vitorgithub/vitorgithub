@@ -8,8 +8,8 @@
 - 🌎 **```Apaixonado pela Engenharia de Software (Com especialização em DADOS);```**
 - 🔎 **```Autodidata, analítico, multidisciplinar, detalhista, persistente e visionário;```**
 - ⏰ **```Estudo entre 10 a 14 horas diariamente;```**
-- 🧐 **```Desenvolvo documentos: (Pesquisando, editando e criando tabelas);```** 
-- 📖 **```Minhas referências: (Documentações oficiais, cursos qualificados e livros);```** 
+- 🧐 **```Crio e desenvolvo documentos autorais de estudo em .MD - (MarkDown);```** 
+- 📖 **```Minhas referências: (Documentações oficiais, livros e cursos qualificados);```** 
 
       
 ### ROADMAP:
