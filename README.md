@@ -16,7 +16,7 @@
      
 | SKILLS (Habilidades)                                | Conceitos:                                                                       | Observações:                                          |
 | :------ | :------- | :---- |
-| **UNDESTAND DIFFERENT "O.S" CONCEPTS:** | <Br>➥ Startup Management (intid) <Br> ➥ Service Management (systemd) <br><Br>➥ Process Management <Br> ➥ Threads and Concurrency <Br> ➥ Sockets <Br> ➥ POSIX - Basics <br> ➥ Networking Concepts <br> <br> ➥ I/O Management <br> ➥ Virtualization <Br> ➥ Memory/Storage <br> ➥ File Systems 
+| **"O.S" CONCEPTS:** | <Br>➥ Startup Management (intid) <Br> ➥ Service Management (systemd) <br><Br>➥ Process Management <Br> ➥ Threads and Concurrency <Br> ➥ Sockets <Br> ➥ POSIX - Basics <br> ➥ Networking Concepts <br> <br> ➥ I/O Management <br> ➥ Virtualization <Br> ➥ Memory/Storage <br> ➥ File Systems 
 | **LINUX:**               | <br>**1° - Principais Conceitos e Termos Relacionados ao GNU/LINUX**<br><br>**2° - Principais Comandos para Manipulação de Arquivos e Diretórios** <br><br>**3° - Básico sobre o Projeto GNU** <br><br>**4° - Comandos Básicos de Administração dos Recursos de um Sistema Linux** <br><br> **5° - Como GERENCIAR e MONITORAR Processos e Serviços**  |
 |  **NetWorking, Security and Protocols:** | <br>**Protocols TCP/IP:** <br> ➥ HTTP / HTTPS <br> ➥ FTP <br> ➥ SSL / TLS <br> ➥ SSH <br> ➥ Port Forwarding <br>➥ DNS <br><br>**PROXY**<br><Br> **VPN / VPC** | |
 | **WHAT IS and HOW to setup a:** | <br>**➥ REVERSE PROXY** <Br> **➥ Caching Server** <br> **➥ Forward Proxy** <br> **➥ Load Balancer** <Br> **➥ FIREWALL** <Br><br><Br> **WEB SERVER:**<BR>**➥ Ngix** 
@@ -38,7 +38,5 @@
 | **INFRA PROVISIONING:** | ➥ Terraform | |
 | **INFRA MONITORING - (DATA PIPELINES):** | ➥ Prometheus<br>➥ Datadog<Br>➥ Grafana | |
 | **SERVERLESS ARCHITECTURE:** | <Br>**Azure Functions**<BR><BR> **AWS Lambda**<br><Br>**Google Functions** ||
-| **AUTO-SCALING**  | | |
-| **RECURSOS COMPUTACIONAIS:**  | <br>**JVM** <br><br> **GPU Management**<bR><bR>**Escalonamento**<BR><BR> **Sistemas de Cache**  | |
 | **MONITORAMENTO:** | <BR> **Loggin**<br><Br>**Resource Management** <br><br>**Alertas e Observabilidade**<br><br>**Resiliência**  |   |
 | **DATA GOVERNANCE:**  | <br>**Controle de Acesso SGBDs**<br>**Catálogo de Dados**<br>**Auditoria**|
