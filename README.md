@@ -29,7 +29,7 @@
 | **MESSAGING BROKERS:** | <br>➥ RabbitMQ <br> ➥ Azure Service Bus <br> ➥ Google PubSub <br> ➥ Amazon SNS & SQS | |
 | **CLUSTER COMPUTING:** | <br>➥ Apache Hadoop<br>➥ HDFS, MapReduce & Yarn | |  
 | **CLOUD COMPUTING:** | <br>**AZURE, AWS & GCP**   | **1° - CLOUD - Introduction** <br> **2° - CLOUD - Models**<br> **3° - CLOUD - PUBLIC, PRIVATE and HYBRID**<br> **4° - CLOUD - Builders** <Br> **5° - CLOUD - DATA Security**<br> **6° - CLOUD - DATA STORES** <br> **7° - CLOUD - Virtualização de IaC** <br> **8° - CLOUD - Soluções MultiCloud** <br> **9° - CLOUD - Orquestração de Serviços e Kubernetes** |
-| **DATA STORAGES:**  | <Br> ➥ Data Warehouse & Data Marts<br> ➥ Data Lake + Delta Lake <br> ➥ Modern Data Warehouse <br> Data Lake House <br> Data Mesh - (Just concepts) | |
+| **DATA STORAGES:**  | <Br> ➥ Data Warehouse & Data Marts<br> ➥ Data Lake + Delta Lake <br> ➥ Modern Data Warehouse <br> ➥ Data Lake House <br> ➥ Data Mesh - (Just concepts) | |
 | **DATA PROCESSING:** | <br>**BATCH:** <br> ➥ Data build tool <br><br> **HYBRID:** <br> ➥ Apache Spark <br> ➥ Apache Beam <br> ➥ Apache Flink <br><br> **STREAMING:** <br> ➥ Apache Kafka <br> ➥ Apache Storm | | 
 | **WORKFLOW SCHEDULING:** | ➥ Apache Airflow | |
 | **CONTAINERS:** | ➥ Docker | |
