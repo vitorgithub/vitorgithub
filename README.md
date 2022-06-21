@@ -20,8 +20,8 @@
 | **LINUX:**               | <br>**1° - Principais Conceitos e Termos Relacionados ao GNU/LINUX**<br><br>**2° - Principais Comandos para Manipulação de Arquivos e Diretórios** <br><br>**3° - Básico sobre o Projeto GNU** <br><br>**4° - Comandos Básicos de Administração dos Recursos de um Sistema Linux** <br><br> **5° - Como GERENCIAR e MONITORAR Processos e Serviços**  |
 |  **NetWorking, Security and Protocols:** | <br>**Protocols TCP/IP:** <br> ➥ HTTP / HTTPS <br> ➥ FTP <br> ➥ SSL / TLS <br> ➥ SSH <br> ➥ Port Forwarding <br>➥ DNS <br><br>**PROXY**<br><Br> **VPN / VPC** | |
 | **WHAT IS and HOW to setup a:** | <br>**➥ REVERSE PROXY** <Br> **➥ Caching Server** <br> **➥ Forward Proxy** <br> **➥ Load Balancer** <Br> **➥ FIREWALL** <Br><br><Br> **WEB SERVER:**<BR>**➥ Ngix** 
-| **VERSIONAMENTO DE CÓDIGO:** | **GIT (GitFlow)**<Br>**GITHUB, GITLAB & Azure DevOps** <br> ➥ (CI) - Continuous Integration <br>➥ (CD) - Continuous Delivery <br> ➥ (CD) - Continuous Deployment | **Em resumo:**<br> ➥ Projetar e Implementar SOFTWARES para integração e entrega contínua <br> ➥ Automatizar testes e realizar testes contínuos <br> ➥ Monitorar software proativamente | 
-| **PROGRAMAÇÃO:**                                    | <br> **PYTHON**<br> ➥ Data Structures & Algorithms <br> ➥ Programming Paradigm - (OOP)<br>➥ Design Principle - (S.O.L.I.D)<bR> ➥ Design Patterns <br>➥ Frameworks - (Django & FastApi)<br>➥ APIs - (Postman)<br>➥ ORM - (SQL Alchemy)<Br>➥ TDD & BDD| <Br>**Segurança no Processo e Desenvolvimento de Software:**<br> ➥ Especificar requisitos de software orientados a riscos<br>➥ Especificar segurança, confiabilidade e proteção de software<br>➥ Codificar para web com segurança<br>➥ Codificar regras de negócio com segurança                            |
+| **CI/CD:** | **GIT (GitFlow)**<Br>**GITLAB** <br> ➥ (CI) - Continuous Integration <br>➥ (CD) - Continuous Delivery <br> ➥ (CD) - Continuous Deployment | **Em resumo:**<br> ➥ Projetar e Implementar SOFTWARES para integração e entrega contínua <br> ➥ Automatizar testes e realizar testes contínuos <br> ➥ Monitorar software proativamente | 
+| **PROGRAMMING:**                                    | <br> **PYTHON & JAVA**<br> ➥ Data Structures & Algorithms <br> ➥ Programming Paradigm - (OOP)<br>➥ Design Principle - (S.O.L.I.D)<bR> ➥ Design Patterns <br>➥ Frameworks - (Django & Springboot)<br>➥ APIs - (Postman)<br>➥ ORM - (SQL Alchemy)<Br>➥ TDD & BDD| <Br>**Segurança no Processo e Desenvolvimento de Software:**<br> ➥ Especificar requisitos de software orientados a riscos<br>➥ Especificar segurança, confiabilidade e proteção de software<br>➥ Codificar para web com segurança<br>➥ Codificar regras de negócio com segurança                            |
 | **TESTING:** | ➥ Unit, Integration & Functional| |  
 | **DBMS:** | <br>**SQL**<br> ➥ MySQL <br>➥ Postgres<br>➥ SQL Lite  <br><br>**NoSQL - Document** <br> ➥ MongoDB <br> ➥ ElasticSearch <Br> ➥ Azure CosmosDB  <br><br> **NoSQL - Wide Column**<br> ➥ Google Bigtable <br>➥ Apache Cassandra <br> ➥ Apache HBase <br><br> **NoSQL - Key-Value** <br>➥ Redis <br> ➥ Amazon DynamoDB |   
 | **DATA RETRIEVAL:** | ➥ ElasticSearch | |
@@ -34,9 +34,9 @@
 | **WORKFLOW SCHEDULING:** | ➥ Apache Airflow | |
 | **CONTAINERS:** | ➥ Docker | |
 | **CONTAINERS ORCHESTRATION:** | ➥ Kubernetes | |
-| **CONFIG MANAGEMENT:** | ➥ Ansible | | 
-| **INFRA PROVISIONING:** | ➥ Terraform | |
+| **CONFIG MANAGEMENT:** | ➥ Ansible | Essa engine é responsável por gerenciar a configuração de centenas de servidores<br>➥ A linguagem YML é utilizada p/ escrever meus playbooks/roles | 
+| **INFRA PROVISIONING:** | ➥ Terraform | Essa engine é responsável por versionar e manter o estado de uma infraestrutura inteira<br>Pode ser utilizada na AWS, AZURE, DigitalOcean ou qualquer CLOUD provider |
 | **INFRA MONITORING - (DATA PIPELINES):** | ➥ Prometheus<br>➥ Datadog<Br>➥ Grafana | |
 | **SERVERLESS ARCHITECTURE:** | <Br>**Azure Functions**<BR><BR> **AWS Lambda**<br><Br>**Google Functions** ||
-| **MONITORAMENTO:** | <BR> **Loggin**<br><Br>**Resource Management** <br><br>**Alertas e Observabilidade**<br><br>**Resiliência**  |   |
+| **MONITORING:** | <BR> **Loggin**<br><Br>**Resource Management** <br><br>**Alertas e Observabilidade**<br><br>**Resiliência**  |   |
 | **DATA GOVERNANCE:**  | <br>**Controle de Acesso SGBDs**<br>**Catálogo de Dados**<br>**Auditoria**|
