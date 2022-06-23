@@ -18,7 +18,7 @@
 | **CLI - SHELL BASH:** |**Text Manipulation Tools:**<br>➥ awk, sed, grep, sort, uniq, cat, cut, echo, fmt, tr, nl, egrep, fgrep, wc<br><br>**Process Monitoring:**<br>➥ ps, top, htop, atop, isof<Br><Br>**Network:**<br>➥ nmap, topdump, ping, mtr, traceroute, dig, airman, airodump, dig, iptables, netstat|**System Performance**<br>➥ nman, iostat, sar, vmstat<br><br>**OTHERS:**<br>➥ strace, dtrace, systemtap, uname, df, history | 
 | **WHAT IS and HOW to setup a:** | <br>**➥ Reverse Proxy & Forward Proxy** <Br> **➥ Caching Server** <br> **➥ Load Balancer** <Br> **➥ FIREWALL** <Br><br>**WEB SERVER - (Nginx)** | **Observação:**<br>➥ próximo conteúdo p/ SRE DevOps é IaC
 | **CI/CD:** | **GIT (GitFlow)**<Br>**GITLAB** <br> ➥ (CI) - Continuous Integration <br>➥ (CD) - Continuous Delivery <br> ➥ (CD) - Continuous Deployment | **Em resumo:**<br> ➥ Projetar e Implementar SOFTWARES para integração e entrega contínua <br> ➥ Automatizar testes e realizar testes contínuos <br> ➥ Monitorar software proativamente | 
-| **PROGRAMMING:**                                    | <br> **PYTHON & JAVA**<br> ➥ Data Structures & Algorithms <br> ➥ Programming Paradigm - (OOP)<br>➥ Design Principle - (S.O.L.I.D)<bR> ➥ Design Patterns <br>➥ Frameworks - (Django & Springboot)<br>➥ APIs - (Postman)<br>➥ ORM <Br>➥ TDD & BDD| <Br>**Segurança no Processo e Desenvolvimento de Software:**<br> ➥ Especificar requisitos de software orientados a riscos<br>➥ Especificar segurança, confiabilidade e proteção de software<br>➥ Codificar para web com segurança<br>➥ Codificar regras de negócio com segurança                            |
+| **PROGRAMMING:**                                    | <br> **PYTHON & JAVA**<br> ➥ Data Structures & Algorithms <br> ➥ Programming Paradigm - (OOP)<br>➥ Design Principles - (S.O.L.I.D)<bR> ➥ Design Patterns <br>➥ Frameworks - (Django & Springboot)<br>➥ APIs - (Postman)<br>➥ ORM <Br>➥ TDD & BDD| <Br>**Segurança no Processo e Desenvolvimento de Software:**<br> ➥ Especificar requisitos de software orientados a riscos<br>➥ Especificar segurança, confiabilidade e proteção de software<br>➥ Codificar para web com segurança<br>➥ Codificar regras de negócio com segurança                            |
 | **TESTING:** | ➥ Unit, Integration & Functional| |
 | **DATA MODELLING:** | **DATA MODELS TYPES:**<br>➥ Conceptual<br>➥ Logical<br>➥ Physical Models | |
 | **DBMS:** | <br>**SQL**<br> ➥ Postgres<br>➥ MySQL - (optional)  <br><br>**NoSQL - Document** <br> ➥ MongoDB <br> ➥ ElasticSearch <Br> ➥ Azure CosmosDB  <br><br> **NoSQL - Wide Column**<br> ➥ Google Bigtable <br>➥ Apache Cassandra <br> ➥ Apache HBase <br><br> **NoSQL - Key-Value** <br>➥ Redis <br> ➥ Amazon DynamoDB |   
@@ -31,10 +31,10 @@
 | **DATA PROCESSING:** | <br>**BATCH:** <br> ➥ Data build tool <br><br> **HYBRID:** <br> ➥ Apache Spark <br> ➥ Apache Beam <br> ➥ Apache Flink <br><br> **STREAMING:** <br> ➥ Apache Kafka <br> ➥ Apache Storm | | 
 | **WORKFLOW SCHEDULING:** | ➥ Apache Airflow | |
 | **CONTAINERS:** | ➥ Docker | |
-| **CONTAINERS ORCHESTRATION:** | ➥ Kubernetes | |
+| **CONTAINERS ORCHESTRATION:** | ➥ Kubernetes - (HELM) | |
 | **CONFIG MANAGEMENT:** | ➥ Ansible | Essa engine é responsável por gerenciar a configuração de centenas de servidores<br>➥ A linguagem YML é utilizada p/ escrever meus playbooks/roles | 
 | **INFRA PROVISIONING:** | ➥ Terraform | Essa engine é responsável por versionar e manter o estado de uma infraestrutura inteira<br>Pode ser utilizada na AWS, AZURE, DigitalOcean ou qualquer CLOUD provider |
 | **INFRA MONITORING - (DATA PIPELINES):** | ➥ Prometheus<br>➥ Datadog<Br>➥ Grafana | |
 | **SERVERLESS ARCHITECTURE:** | <Br>**Azure Functions**<BR><BR> **AWS Lambda**<br><Br>**Google Functions** ||
-| **MONITORING:** | <BR> **Loggin**<br><Br>**Resource Management** <br><br>**Alertas e Observabilidade**<br><br>**Resiliência**  |   |
+| **MONITORING:** | <BR> **Loggin**<br><Br>**Resource Management** <br><br>**Alertas e Observabilidade** |   |
 | **DATA GOVERNANCE:**  | <br>**Controle de Acesso SGBDs**<br>**Catálogo de Dados**<br>**Auditoria**|
