@@ -1,7 +1,7 @@
 <div align="center">
    <a href = https://www.linkedin.com/in/vitorgithub><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-      V
+      
 ## Seja seu próprio ídolo, professor e melhor amigo!
       
 - 🌎 **```Engenharia de Software & Engenharia de Dados;```**
@@ -12,9 +12,22 @@
 
 |<span style="color:blue;"><b>MY PERSONAL ROADMAP:</b></span> ||
 | :-- | :-- | 
-|  **NETWORK & SECURITY:** |**OSI & TCP/IP:** <br> - HTTP / HTTPS <br> - FTP / SFTP<br> - SSL / TLS <br> - SSH <br> - Port Forwarding  | |
-| **"KERNEL" & "S.O":** | ✅ Startup Management (intid)</b></span> <Br> ☑️ Service Management (systemd) <br><Br>- Process Management <Br> - Threads and Concurrency <Br> - Sockets <Br> - POSIX - Basics <br> - Networking Concepts <br> <br> - I/O Management <br>- Virtualization <Br> - Memory/Storage <br> - File Systems |**1° - Principais Conceitos e Termos Relacionados ao GNU/LINUX**<br><br>**2° - Principais Comandos para Manipulação de Arquivos e Diretórios** <br><br>**3° - Básico sobre o Projeto GNU** <br><br>**4° - Comandos Básicos de Administração dos Recursos de um Sistema Linux** <br><br> **5° - Como GERENCIAR e MONITORAR Processos e Serviços**  |
-| **CLI - SHELL BASH:** |**Text Manipulation Tools:**<br>- awk, sed, grep, sort, uniq, cat, cut, echo, fmt, tr, nl, egrep, fgrep, wc<br><br>**Process Monitoring:**<br>- ps, top, htop, atop, isof<Br><Br>**Network:**<br>- nmap, topdump, ping, mtr, traceroute, dig, airman, airodump, dig, iptables, netstat|**System Performance**<br>- nman, iostat, sar, vmstat<br><br>**OTHERS:**<br>- strace, dtrace, systemtap, uname, df, history | 
+|  NETWORK & SECURITY |**OSI & TCP/IP:** <br> - HTTP / HTTPS <br> - FTP / SFTP<br> - SSL / TLS <br> - SSH <br> - Port Forwarding  | |
+| KERNEL & S.O | ✅ Startup Management (intid)</b></span> <Br> ☑️ Service Management (systemd) <br><Br>- Process Management <Br> - Threads and Concurrency <Br> - Sockets <Br> - POSIX - Basics <br> - Networking Concepts <br> <br> - I/O Management <br>- Virtualization <Br> - Memory/Storage <br> - File Systems |**1° - Principais Conceitos e Termos Relacionados ao GNU/LINUX**<br><br>**2° - Principais Comandos para Manipulação de Arquivos e Diretórios** <br><br>**3° - Básico sobre o Projeto GNU** <br><br>**4° - Comandos Básicos de Administração dos Recursos de um Sistema Linux** <br><br> **5° - Como GERENCIAR e MONITORAR Processos e Serviços**  |
+| CLI - SHELL BASH |**Text Manipulation Tools:**<br>- awk, sed, grep, sort, uniq, cat, cut, echo, fmt, tr, nl, egrep, fgrep, wc<br><br>**Process Monitoring:**<br>- ps, top, htop, atop, isof<Br><Br>**Network:**<br>- nmap, topdump, ping, mtr, traceroute, dig, airman, airodump, dig, iptables, netstat|**System Performance**<br>- nman, iostat, sar, vmstat<br><br>**OTHERS:**<br>- strace, dtrace, systemtap, uname, df, history | 
+| React (CLI Tools) | Vite
+| React (Functional Components) | 
+| React (Components Basics) | JSX<br>Props vs State<bR>Conditional Rendering<br>Composition  
+| React (Rendering) | Component Life Cycle<br>Lists and Keys<br>Render Props<br> Refs<br> Events<br>High Order Components
+| React (Basic Hooks) | useState<br>useEffect
+| React (Writing Custom Hooks)|useCallback<br>useContext<br>useDebugValue<br>useDeferredValue<br>useEffect<br>useId<br>useImperativeHandle<br>useInsertionEffect<br>useLayoutEffect<br>useReducer<br>useRef<br>useState<br>useSyncExternalStore<br>useTransition
+| React (Routers) |React Router
+| React (State Management) | Zustand <Br>Context (Passing Data Deeply with Context)<br>Context (State with useContext and useState/useReducer)
+| React (Styling) | Tailwind<br>Material UI
+| React (API Calls) | REST (SWT and react-query)
+| React (Testing) | PLaywright
+| React (Framework) | Next.js
+| React (Forms) | React Hook Form   
 | PYTHON & JAVA (basic)| - exceptions (tratamento de exceções) <br>- input & print<br>- expressões (aritméticas, lógicas e relacionais)<br>- estruturas de decisão<br>- estruturas de escolha<br>- estruturas de repetição<br>- funções<br>- variáveis primitivas<Br> - variáveis primitivas (Strings)<br>- variáveis compostas  (Collections)<br>- variáveis compostas  (OOP)<br>- datas e horários<br>- manipulação de arquivos
 | PYTHON & JAVA (intermediate) | <u>estrutura de dados e algoritmos</u><br>- arrays & linked-lists<br>- heaps, stacks & queues<br>- hash tables<br>- binary search trees<br>- recursion<br>- sorting algorithms
 | PYTHON & JAVA (advanced) | - regex<br>- design Principles - (S.O.L.I.D)<br>- design Patterns - (G.O.F)<br>- TDD & BDD
@@ -25,7 +38,7 @@
 | DJANGO (models) | Definição de Modelos<br>Campos de Modelos<br>Relacionamentos de Modelos<br>Métodos de Modelo<br>Administração do Django
 | DJANGO (migrations) | Criação de Migrações<br>Gerenciamento de Migrações
 | DJANGO (views) | Introdução às Views<br>Views Baseadas em Funções<br>Views Baseadas em Classes<br>Class-based Generic Views<br>Pagination<br>API Views
-| DJANGO (auth) | Autenticação de Usuário Django<br>Configuração de Autenticação<br>Permissões de Usuário<br>Autenticação de 2 Fatores<br>Recuperação de Senha<br>
+| DJANGO (auth) | Autenticação de Usuário Django<br>Configuração de Autenticação<br>Permissões de Usuário<br>Autenticação de 2 Fatores<br>Recuperação de Senha
 | DJANGO (admin) | Configuração da Área de Administração do Django<br>Personalização da Área de Administração do Django<br>Uso do Admin Site
 | DJANGO (security) | Configurações de Segurança do Django<br>Cross-Site Scripting (XSS)<br>Cross-Site Request Forgery (CSRF)<br>SQL Injection<br>Clickjacking<br>HTTP Strict Transport Security (HSTS)
 | DJANGO (ORM) |ORM Django<br>SQL Personalizado<br>Gerenciamento de Migrações<br>Administração do Banco de Dados
