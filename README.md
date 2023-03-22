@@ -18,11 +18,6 @@
 | PYTHON & JAVA (basic)| - exceptions (tratamento de exceções) <br>- input & print<br>- expressões (aritméticas, lógicas e relacionais)<br>- estruturas de decisão<br>- estruturas de escolha<br>- estruturas de repetição<br>- funções<br>- variáveis primitivas<Br> - variáveis primitivas (Strings)<br>- variáveis compostas  (Collections)<br>- variáveis compostas  (OOP)<br>- datas e horários<br>- manipulação de arquivos
 | PYTHON & JAVA (intermediate) | <u>estrutura de dados e algoritmos</u><br>- arrays & linked-lists<br>- heaps, stacks & queues<br>- hash tables<br>- binary search trees<br>- recursion<br>- sorting algorithms
 | PYTHON & JAVA (advanced) | - regex<br>- design Principles - (S.O.L.I.D)<br>- design Patterns - (G.O.F)<br>- TDD & BDD
-DJANGO (testing)
-DJANGO (middleware)
-DJANGO (internationalization and localization)
-DJANGO (third-party packages)
-DJANGO (performance)
 | DJANGO | Configuração do Ambiente Virtual de Desenvolvimento<br>Gerenciador de Pacotes Pip<br>Instalação e Configuração<br>Arquitetura MTV<br>Settings.py
 | DJANGO (URLs)|URL Dispatcher<br>Rotas Dinâmicas<Br>Filters
 | DJANGO (templates) | Introdução aos Templates<br> Tags e Filtros do Django<br> Template Inheritance
