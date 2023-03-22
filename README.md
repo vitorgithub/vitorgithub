@@ -18,26 +18,35 @@
 | PYTHON & JAVA (basic)| - exceptions (tratamento de exceções) <br>- input & print<br>- expressões (aritméticas, lógicas e relacionais)<br>- estruturas de decisão<br>- estruturas de escolha<br>- estruturas de repetição<br>- funções<br>- variáveis primitivas<Br> - variáveis primitivas (Strings)<br>- variáveis compostas  (Collections)<br>- variáveis compostas  (OOP)<br>- datas e horários<br>- manipulação de arquivos
 | PYTHON & JAVA (intermediate) | <u>estrutura de dados e algoritmos</u><br>- arrays & linked-lists<br>- heaps, stacks & queues<br>- hash tables<br>- binary search trees<br>- recursion<br>- sorting algorithms
 | PYTHON & JAVA (advanced) | - regex<br>- design Principles - (S.O.L.I.D)<br>- design Patterns - (G.O.F)<br>- TDD & BDD
+DJANGO (testing)
+DJANGO (middleware)
+DJANGO (internationalization and localization)
+DJANGO (third-party packages)
+DJANGO (performance)
 | DJANGO | Configuração do Ambiente Virtual de Desenvolvimento<br>Gerenciador de Pacotes Pip<br>Instalação e Configuração<br>Arquitetura MTV<br>Settings.py
 | DJANGO (URLs)|URL Dispatcher<br>Rotas Dinâmicas<Br>Filters
-| DJANGO (Templates) | Introdução aos Templates<br> Tags e Filtros do Django<br> Template Inheritance
-| DJANGO (Forms) | Formulários Básicos<br>Formulários com Validação Personalizada<br>Formulários Modelos<br>Formsets|
-| DJANGO (Models) | Definição de Modelos<br>Campos de Modelos<br>Relacionamentos de Modelos<br>Métodos de Modelo<br>Administração do Django
-| DJANGO (Migrations) | Criação de Migrações<br>Gerenciamento de Migrações
-| DJANGO (Views) | Introdução às Views<br>Views Baseadas em Funções<br>Views Baseadas em Classes<br>Class-based Generic Views<br>Pagination<br>API Views
-| DJANGO (Auth) | Autenticação de Usuário Django<br>Configuração de Autenticação<br>Permissões de Usuário<br>Autenticação de 2 Fatores<br>Recuperação de Senha<br>
-| DJANGO (Admin) | Configuração da Área de Administração do Django<br>Personalização da Área de Administração do Django<br>Uso do Admin Site
-| DJANGO (Security) | Configurações de Segurança do Django<br>Cross-Site Scripting (XSS)<br>Cross-Site Request Forgery (CSRF)<br>SQL Injection<br>Clickjacking<br>HTTP Strict Transport Security (HSTS)
+| DJANGO (templates) | Introdução aos Templates<br> Tags e Filtros do Django<br> Template Inheritance
+| DJANGO (forms) | Formulários Básicos<br>Formulários com Validação Personalizada<br>Formulários Modelos<br>Formsets|
+| DJANGO (models) | Definição de Modelos<br>Campos de Modelos<br>Relacionamentos de Modelos<br>Métodos de Modelo<br>Administração do Django
+| DJANGO (migrations) | Criação de Migrações<br>Gerenciamento de Migrações
+| DJANGO (views) | Introdução às Views<br>Views Baseadas em Funções<br>Views Baseadas em Classes<br>Class-based Generic Views<br>Pagination<br>API Views
+| DJANGO (auth) | Autenticação de Usuário Django<br>Configuração de Autenticação<br>Permissões de Usuário<br>Autenticação de 2 Fatores<br>Recuperação de Senha<br>
+| DJANGO (admin) | Configuração da Área de Administração do Django<br>Personalização da Área de Administração do Django<br>Uso do Admin Site
+| DJANGO (security) | Configurações de Segurança do Django<br>Cross-Site Scripting (XSS)<br>Cross-Site Request Forgery (CSRF)<br>SQL Injection<br>Clickjacking<br>HTTP Strict Transport Security (HSTS)
 | DJANGO (ORM) |ORM Django<br>SQL Personalizado<br>Gerenciamento de Migrações<br>Administração do Banco de Dados
-| DJANGO (Caching) |  Configuração do Cache em Django<br>Cache Local<br>Cache Distribuído com Redis 
-| DJANGO (Logging) | Framework de Log (Python Logging & Django-Logging)<br>Gerenciador de Log (ELK Stack e Sentry.io)
+| DJANGO (middleware) | Introdução ao Middleware<br> Middleware de Autenticação<br> Middleware de Cache<br> Middleware de Depuração<br> Middleware de Compressão<br> Middleware Personalizado
+| DJANGO (internationalization and localization)	|Internacionalização e Localização<br> Tradução de Texto<br> Formatos de Data e Hora<br> Formatos Numéricos<br> Identificação de Idioma do Usuário<br> Middleware de Internacionalização
+|DJANGO (testing)	|Introdução ao Teste de Unidade Django<br> Teste de Unidade em Models<br> Teste de Unidade em Views<br> Teste de Unidade em Templates<br> Teste de Integração<br> Teste Funcional<br> Cobertura de Testes<br> Test-Driven Development (TDD)
+| DJANGO (caching) |  Configuração do Cache em Django<br>Cache Local<br>Cache Distribuído com Redis 
+| DJANGO (logging) | Framework de Log (Python Logging & Django-Logging)<br>Gerenciador de Log (ELK Stack e Sentry.io)
 | DJANGO APIs|	REST Framework Django (Criar uma API RESTful utilizando Serializers e Viewsets/Routers)<br>Autenticação e Autorização de API<br>Validação de Entrada de Dados utilizando a biblioteca pytest <br>Tratamento de Erros e Exceções<br>Documentação de APIs com OpenAPI/Swagger<br>Integração de APIs com outros Sistemas e Serviços<br>Testes Automatizados de APIs<br>Segurança de APIs<br>Cache em APIs utilizando Redis<br>Monitoramento de APIs<br>Versionamento de APIs<br>Escalabilidade de APIs com Celery e RabbitMQ<br>Django Channels
-| DJANGO (processar tarefa e mensagens) | Django e Celery para "fila de tarefas" (Worker e Broker)<br>Django Channels para "WebSockets"
-| DJANGO (pagamentos e Checkout) | Pagamentos Únicos, Assinaturas e Reembolsos com Stripe<br>Webhooks para Pagamentos e Checkout
-| DJANGO (Deploy) | ASGI e WSGI<br>Deploy da Aplicação Django com NGINX, Gunicorn, SSL, Arquivos Estáticos e Banco de dados
-| DJANGO (Escalabilidade | Escalabilidade de aplicações Django (Celery & RabbitMQ)
+| DJANGO (process task and messages) | Django e Celery para "fila de tarefas" (Worker e Broker)<br>Django Channels para "WebSockets"
+| DJANGO (payments and checkout) | Pagamentos Únicos, Assinaturas e Reembolsos com Stripe<br>Webhooks para Pagamentos e Checkout
+| DJANGO (deploy) | ASGI e WSGI<br>Deploy da Aplicação Django com NGINX, Gunicorn, SSL, Arquivos Estáticos e Banco de dados
+| DJANGO (escalability) | Escalabilidade de aplicações Django (Celery & RabbitMQ)
+|DJANGO (performance)	|Introdução à Performance<br> Identificação de gargalos de performance<br> Ferramentas de Monitoramento de Performance<br> Melhores práticas para Melhorar a Performance do Django
 | DATA MODELLING:  | - Conceptual<br>- Logical<br>- Physical  | 
-| DATA STORAGES | Database SQL:<br> - PostgreSQL<br><br>Database NoSQL:<br>- MongoDB<br><br>Modern Data Warehouse & Data Marts:<br>- Amazon Redshift<br>- Microsoft Azure Synapse Analytics<br>- Google BigQuery<br>- Snowflake<br><br> Data Lake + Delta Lake:<br>- Amazon S3<br>- Microsoft Azure Data Lake Storage<br>- Google Cloud Storage <br> <br> Data Lake House:<bR>- Amazon Redshift Spectrum<br>- Azure Data Lake Storage Gen2<br>- Google Bigtable<br>- BigQuery External Data| |
+| DATA STORAGES | Database SQL:<br> - PostgreSQL<br><br>Database NoSQL:<br>- MongoDB<br><br>Modern Data Warehouse & Data Marts:<br>- Amazon Redshift<br>- Microsoft Azure Synapse Analytics<br>- Google BigQuery<br>- Snowflake<br><br> Data Lake + Delta Lake:<br>- Amazon S3<br>- Microsoft Azure Data Lake Storage<br>- Google Cloud Storage <br> <br> Data Lake House:<bR>- Amazon Redshift Spectrum<br>- Azure Data Lake Storage Gen2<br>- Google Bigtable<br>- BigQuery External Data| 
 |DATA PROCESSING|BATCH:<br>- Data build tool<br><br>HYBRID:<br> - Apache Spark<br>-  Apache Beam<br>- Apache Flink<br><br>STREAMING:<br>- Apache Kafka<br>- Apache Storm	
 | DATA RETRIEVAL | ElasticSearch (Text SearchEngine)
 |WORKFLOW SCHEDULING| Apache Airflow
