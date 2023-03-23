@@ -15,6 +15,24 @@
 |  NETWORK & SECURITY |**OSI & TCP/IP:** <br> - HTTP / HTTPS <br> - FTP / SFTP<br> - SSL / TLS <br> - SSH <br> - Port Forwarding  | |
 | KERNEL & S.O | ✅ Startup Management (intid)</b></span> <Br> ☑️ Service Management (systemd) <br><Br>- Process Management <Br> - Threads and Concurrency <Br> - Sockets <Br> - POSIX - Basics <br> - Networking Concepts <br> <br> - I/O Management <br>- Virtualization <Br> - Memory/Storage <br> - File Systems |**1° - Principais Conceitos e Termos Relacionados ao GNU/LINUX**<br><br>**2° - Principais Comandos para Manipulação de Arquivos e Diretórios** <br><br>**3° - Básico sobre o Projeto GNU** <br><br>**4° - Comandos Básicos de Administração dos Recursos de um Sistema Linux** <br><br> **5° - Como GERENCIAR e MONITORAR Processos e Serviços**  |
 | CLI - SHELL BASH |**Text Manipulation Tools:**<br>- awk, sed, grep, sort, uniq, cat, cut, echo, fmt, tr, nl, egrep, fgrep, wc<br><br>**Process Monitoring:**<br>- ps, top, htop, atop, isof<Br><Br>**Network:**<br>- nmap, topdump, ping, mtr, traceroute, dig, airman, airodump, dig, iptables, netstat|**System Performance**<br>- nman, iostat, sar, vmstat<br><br>**OTHERS:**<br>- strace, dtrace, systemtap, uname, df, history | 
+| HTML | - Estrutura básica do HTML e suas tags semânticas <br>- Criação de formulários e validações 
+| CSS (Basic Syntax) | CSS rules<br>Selectors and declarations<br>Syntax structure<br>Commenting
+| CSS (Box Model) | Box model concept<br>Content, padding, border, and margin<br>Width and height<br>Box-sizing property
+| CSS (Selectors) | Tag selectors<br>Class selectors<br>ID selectors<br>Attribute selectors<br>Pseudo-classes and pseudo-elements<br>Selector priority
+| CSS (Typography) | Font family, size & style<br>Text color and background<br>Line height and spacing<br>Text alignment and decoration
+|CSS (Layout)|Floats<br>Positioning<br>Display property<br>Box alignment<br>Responsive design techniques
+|CSS (Frameworks)|Popular CSS frameworks (Bootstrap, Tailwind CSS)<br>Pre-built UI components<br>Grid systems<br>Customization options
+|CSS (Preprocessors)|Popular CSS preprocessors (Sass, Less, etc.)<br>Variables<br>Nesting<br>Mixins<br>Functions
+|CSS (Flexbox:)|Container and items<br>Direction, wrap, and flow<br>Alignment and justification<br>Responsive design with Flexbox
+|CSS (CSS Grid)|Container and items<br>Tracks and lines<br>Areas and cells<br>Alignment and positioning<br>Responsive design with CSS Grid
+|CSS (Responsive Design)|Media queries<br>Viewport meta tag<br>Responsive images and videos<br>Responsive typography<br>Mobile-first design approach
+|CSS (Web Standards)|HTML and CSS validation<br>Semantic HTML<br>Accessibility standards<br>Cross-browser compatibility<br>Web performance optimization
+|CSS (Advanced Styling)|CSS animations<br>Transitions<br>Transformations<br>Filters<br>Blend modes<br>Custom properties (CSS variables)
+|CSS (Architecture)|BEM (Block Element Modifier) methodology<br>CSS naming conventions<br>CSS methodologies (SMACSS, OOCSS)<br>CSS modules and namespaces<br>Atomic CSS
+|CSS (Collaborative Work)|Version control systems (Git, GitHub, GitLab)<br>CSS linting<br>Code reviews<br>Team communication tools (Slack, Microsoft Teams)<br>Project management tools (Jira, Trello)
+|CSS (Career Development)|Building a personal brand<br>Networking and community involvement<br>Continuous learning and staying up-to-date with new CSS trends and techniques<br>Developing a professional portfolio<br>Preparing for interviews and showcasing skills
+|CSS (Additional Skills)|JavaScript for Frontend development<br>CSS-in-JS<br>Server-side rendering<br>Web accessibility<br>Internationalization and localization (i18n and l10n)
+| JAVASCRIPT | - Sintaxe e tipos de dados<br> - Manipular o DOM usando JavaScript <br> - Utilizar Fetch API e/ou Ajax (XHR) para fazer chamadas de API <br> - Hoisting, event bubbling, escopo, protótipo, shadow DOM e modo strict
 | React (CLI Tools) | Vite
 | React (Functional Components) | Introdução a Functional Components<br>Como utilizar os hooks em Functional Components<br>Utilização dos componentes de ordem superior em Functional Components
 | React (Components Basics) | Introdução a Componentes<br>Diferença entre componentes de classe e funcionais<br>Como criar componentes reutilizáveis<br>Utilização de props para tornar componentes mais configuráveis<br>Como utilizar state para armazenar dados locais em um componente<br>Quando e como utilizar o padrão "Render Props" 
@@ -69,3 +87,4 @@
 | WEB SERVER: | NGINX <br> - Configurar e gerenciar um servidor web <br> - Prover segurança e performance <br> - Prover balanceamento de carga e proxy reverso<br>- Escalabilidade de webservers com NGINX
 | MONITORING:| - Loggin<br>- Resource Management <br>- Alertas e Observabilidade |   |
 | DATA GOVERNANCE:  | - Controle de Acesso SGBDs<br>- Catálogo de Dados<br>- Auditoria|
+
