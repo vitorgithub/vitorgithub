@@ -35,17 +35,17 @@
 | JAVASCRIPT | Sintaxe e tipos de dados<br> Manipulação de DOM usando JavaScript <br> Utilização de Fetch API e/ou Ajax (XHR) para fazer chamadas de API <br> Hoisting, event bubbling, escopo, protótipo, shadow DOM e modo strict
 | React (CLI Tools) | Vite
 | React (Functional Components) | Introdução a Functional Components<br>Utilização de hooks em Functional Components<br>Utilização dos componentes de ordem superior em Functional Components
-| React (Components Basics) | Introdução a Componentes<br>Diferença entre componentes de classe e funcionais<br>Criação de componentes reutilizáveis<br>Utilização de props para tornar componentes mais configuráveis<br>Como utilizar state para armazenar dados locais em um componente<br>Quando e como utilizar o padrão "Render Props" 
+| React (Components Basics) | Introdução a Componentes<br>Diferença entre componentes de classe e funcionais<br>Criação de componentes reutilizáveis<br>Utilização de props para tornar componentes mais configuráveis<br>Utilização de state para armazenar dados locais em um componente<br>Quando e como utilizar o padrão "Render Props" 
 | React (Rendering) | Introdução ao ciclo de vida dos componentes<br>Utilização de "Listas e Keys"<br>Utilização de "Refs" para acessar elementos DOM<br>Utilização de "Eventos" para manipular o comportamento do usuário<br>Quando e como utilizar componentes de ordem superior
 | React (Basic Hooks) | Utilização de hooks:<br> "useState"<br>"useEffect"<br>"useContext"<br>"useReducer"<br>"useMemo"<br>"useCallback"<br>"useRef"<br>"useImperativeHandle"<br>"useLayoutEffect"<br>"useDebugValue"
 | React (Writing Custom Hooks)|useCallback<br>useContext<br>useDebugValue<br>useDeferredValue<br>useEffect<br>useId<br>useImperativeHandle<br>useInsertionEffect<br>useLayoutEffect<br>useReducer<br>useRef<br>useState<br>useSyncExternalStore<br>useTransition
 | React (State Management) |Introdução a gerenciamento de estado<Br>Utilização de "Redux" para gerenciamento de estado<Br>Utilização de "Zustand" para gerenciamento de estado<Br>Utilização de "Context API" para compartilhar dados entre componentes<Br>Quando e como utilizar o padrão "Render Props"
-| React (Routers) |Introdução ao roteamento<Br>Como utilizar o "React Router" para criar rotas em uma aplicação React<Br>Utilização de "Route Guards" para controle de acesso
-| React (Styling) | Introdução a estilização em React<br>Utilização de "CSS Modules" para escopo de estilos<br>Utilização de "Styled Components" para criar estilos em linha<br>Como utilizar "Tailwind" e "Material UI" para estilização
-| React (API Calls) | Introdução a realização de chamadas API<br>Como utilizar "axios" para fazer chamadas API<br>Como utilizar "SWR" e "react-query" para lidar com estado de dados da API
-| React (Testing) | Introdução a testes em React<Br>Utilização de "Jest" e "React Testing Library" para escrever testes automatizados<br>Como utilizar "Playwright" para testes E2E
-| React (Framework) | Introdução ao Next.js<br>Como utilizar o Next.js para renderização do lado do servidor<br>Utilização de "Static Site Generation" com Next.js
-| React (Forms) | Introdução a formulários em React<Br>Como utilizar "React Hook Form" para gerenciar formulários  
+| React (Routers) |Introdução ao roteamento<Br>Utilização do "React Router" para criar rotas em uma aplicação React<Br>Utilização de "Route Guards" para controle de acesso
+| React (Styling) | Introdução a estilização em React<br>Utilização de "CSS Modules" para escopo de estilos<br>Utilização de "Styled Components" para criar estilos em linha<br>Utilização do "Tailwind" e "Material UI" para estilização
+| React (API Calls) | Introdução a realização de chamadas API<br>Utilização do "axios" para fazer chamadas API<br>Utilização de "SWR" e "react-query" para lidar com estado de dados da API
+| React (Testing) | Introdução a testes em React<Br>Utilização de "Jest" e "React Testing Library" para escrever testes automatizados<br>Utilização de "Playwright" para testes E2E
+| React (Framework) | Introdução ao Next.js<br>Utilização do Next.js para renderização do lado do servidor<br>Utilização de "Static Site Generation" com Next.js
+| React (Forms) | Introdução a formulários em React<Br>Utilização do "React Hook Form" para gerenciar formulários  
 | Next.js | Estrutura e a arquitetura do Next.js<br>Roteamento, servidor de desenvolvimento e as ferramentas de construção.<br>Páginas do Next.js e criação de rotas<br>Componentes dinâmicos e estáticos<br>Geração de rotas estáticas e dinâmicas<br>Criação de API com Next.js<br> Criação de páginas de erro personalizadas e resolver com erros no Next.js<br>Utilização de bibliotecas externas em Next.js<br>Implementação de autenticação e autorização em Next.js
 | Next.js (Integração com backend)|Integração do Next.js com um backend existente (Django ou Springboot)<br> Como fazer requisições HTTP do Next.js para o backend<br>Como lidar com dados do backend em componentes do Next.js
 | Next.js (Deploy e hospedagem) | Configuração do deploy do Next.js em serviços de hospedagem em CLOUD, como o Vercel<br>Opções de hospedagem para Next.js, incluindo o uso de serviços de hospedagem gerenciada e plataformas de CLOUD.
@@ -88,7 +88,7 @@ Next.js (Testes) | Teste de aplicativos Next.js<br>Teste de unidade<br>Testes de
 |CONFIG MANAGEMENT (Ansible)	| Ansible é uma enginer responsável por gerenciar a configuração de centenas de servidores<br>A linguagem YML é utilizada p/ escrever meus playbooks/roles
 | CONTAINERS (Docker) | Introdução ao Docker<br>Criação e gerenciamento de containers<br>Dockerfile & Docker compose
 | CONTAINERS ORCHESTRATION (Kubernetes "helm") | Introdução ao Kubernetes<br>Deployment e escalabilidade<br>Monitoramento e manutenção<br>- Gerenciamento de containers
-| MESSAGE BROKER: | RabbitMQ, Azure Service Bus, Google PubSub, Amazon SNS & SQS:<br> - Criar e gerenciar filas de mensagens <br> - Integração com outros sistemas <br> - Prover alta disponibilidade e escalabilidade
-| MONITORING:| - Loggin<br>- Resource Management <br>- Alertas e Observabilidade |   |
-| DATA GOVERNANCE:  | - Controle de Acesso SGBDs<br>- Catálogo de Dados<br>- Auditoria|
+| MESSAGE BROKER | RabbitMQ, Azure Service Bus, Google PubSub, Amazon SNS & SQS:<br> - Criar e gerenciar filas de mensagens <br> - Integração com outros sistemas <br> - Prover alta disponibilidade e escalabilidade
+| MONITORING| - Loggin<br>- Resource Management <br>- Alertas e Observabilidade |   |
+| DATA GOVERNANCE  | - Controle de Acesso SGBDs<br>- Catálogo de Dados<br>- Auditoria|
 
