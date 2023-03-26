@@ -38,21 +38,36 @@
 | JS (Type Casting) | Implicit Type Casting<br>Explicit Type Casting<br>Type Conversion vs Coercion |
 | JS (Data Structures) |Index Collections:<br>- arrays<br>- typed arrays
 | JS (Data Structures) |Keyed Collections:<br>- Map, WeakMap<br>- Set, Weak Set
-| JS (Equality Comparisons) | ==<br>===<br> Object.is()
+| JS (Equality Comparisons) | `==`<br>`===`<br> `Object.is()`
 | JS (Equality Algorithms Comparisons) |  isLooselyEqual<br>isStrictlyEqual<br>SameValueZero<br>SameValue
 | JS (Expressions & Operators) | Assignment Operators<br>Comparison Operators<br>Arithmetic Operators<br>Bitwise Operators<br>Logical Operators<br>BigInt Operators<br>String Operators<br>Conditional Operators<br>Comma Operators<br>Unary Operators<br>Relational Operators
-| JS (Estruturas de decisão) | If.. else
-| JS (Estruturas de escolha) | Switch
-| JS (Estruturas de repetição) | for loop<br>while loop<br>do-while loop<br>break statement<br>continue statement<br>for...in loop<br>for...of loop<br>iterators and generators
-| JS (Exception Handling) |  throw<br>try / catch / finally<br>utilizing Error Objects
-| JS (Functions) | Function Parameters (Default & Rest)<br>Arrow Functions<br>IIFE (Immediately-Invoked Function Expression)<br>arguments object<br>Scope & Function Stack (Recursion, Lexcial Scoping & Closures)<br>Built-in Functions
+| Typescript (Variáveis primitivas) | boolean, number, string, void, undefined, null
+| Typescript (Variáveis compostas)| Object (Interface, Class, Enum, Arrays, Tuples)
+| Typescript (Variáveis compostas)| Others (any, object, unknown, never) 
+| Typescript (Assertions) | `as const`<br>`as type`<br>`any`<br><Br>Non-null Assertion<br>satisfies keyword
+| Typescript (Combining Types)| Union Types<br>Intersection Types<br>Type Aliases<br>keyof operator
+| Typescript (Type Guards / Narrowing) | typeof<br>instanceof
+| Typescript (Type Guards / Narrowing) | Equality<br>Truthiness<br>Type Predicates
+|Typescript (Functions) | Typing Functions<br>Function Overloading
+|Typescript (Interfaces)| Types vs Interfaces<br>Extending Interfaces<br>Interface Declaration<br>Hybrid Types
+| Typescript (Classes)| Constructor Params<br>Constructor Overloading<br>Access Modifiers<br>Abstract Classes<br>Inheritance vs Polymorphism<br>Method Overriding
+| Typescript (Generics)| Generic Types<br>Generic Constrains
+| Typescript (Decorators) | 
+| Typescript (Utility Types)| Partial<br>Pick<br>Omit<br>Readonly<br>Record<br>Exclude<br>Extract<br>NonNullable<br>Parameters<br>ReturnType<br>InstanceType<br>Awaited
+| Typescript (Modules)| Namespace Argumentation<br>Global argumentation
+| Typescript (Ecosystem) | Formatting<br>Linting<br>Useful Packages<br>Build Tools
+| Typescript (Estruturas de decisão) | If.. else
+| Typescript (Estruturas de escolha) | Switch
+| Typescript (Estruturas de repetição) | for loop<br>while loop<br>do-while loop<br>break statement<br>continue statement<br>for...in loop<br>for...of loop<br>iterators and generators
+| Typescript (Exception Handling) | throw<br>try / catch / finally<br>utilizando Error Objects
+| JS (Functions) | Function Parameters (Default & Rest)<br>Arrow Functions<br>IIFE (Immediately-Invoked Function Expression)<br>Arguments Object<br>Scope & Function Stack (Recursion, Lexical Scoping & Closures)<br>Built-in Functions
 | JS (Strict Mode) | O que é strict mode?<br>Como habilitar o strict mode<br>Impacto do strict mode em variáveis e funções<br>Usando strict mode com módulos<br>Benefícios e limitações do strict mode
-| Using <u>this</u> keyword: |alone<br>in a method<br>in a function<br>in event handlers<br>in arrow functions<br><br>Explicit Bindin:<bR>- call()<br>- apply()<br>- bind()
-| JS (Asynchronous JS) | Event Loop
-| JS (Asynchronous JS) | setTimeout & setInterval<
-| JS (Asynchronous JS) | Callbacks (Callback Hell)<br>Promises (async / await)
-| JS (Working with APIs) | Utilização de Fetch para fazer chamadas de API
-| JAVASCRIPT | Manipulação de DOM usando JS 
+| Typescript (Using the <u>this</u> keyword) | alone (refers to the global object) <br> in a method (refers to the object that the method is a property of) <br> in a function (refers to the global object in non-strict mode, and is undefined in strict mode) <br> in event handlers (refers to the element that received the event) <br> in arrow functions (inherits the value of this from the enclosing lexical scope) <br> <br>Explicit Binding: <br> `call()` <br> `apply()` <br> `bind()`
+| Typescript (Asynchronous JS) | Event Loop
+| Typescript (Asynchronous JS) | setTimeout & setInterval
+| Typescript (Asynchronous JS) | Callbacks (Callback Hell)<br>Promises (async / await)
+| Typescript (Working with APIs) | Utilização de Fetch para fazer chamadas de API
+| JAVASCRIPT | Manipulação de DOM usando JS (seleção de elementos, manipulação de atributos e conteúdo, eventos)
 | JS (Chrome Dev Tools) | Debugging Issues<br>Debugging Memory Leaks<br>Debugging Performance
 | React (CLI Tools) | Vite
 | React (Functional Components) | Introdução a Functional Components<br>Utilização de hooks em Functional Components<br>Utilização dos componentes de ordem superior em Functional Components
@@ -60,7 +75,7 @@
 | React (Rendering) | Introdução ao ciclo de vida dos componentes<br>Utilização de "Listas e Keys"<br>Utilização de "Refs" para acessar elementos DOM<br>Utilização de "Eventos" para manipular o comportamento do usuário<br>Quando e como utilizar componentes de ordem superior
 |React Hooks	|Basic Hooks:<br> - "useState"<br>- "useEffect"<br>- "useContext"<br>- "useReducer"<br>- "useMemo"<br>- "useCallback"<br>- "useRef"<br>- "useLayoutEffect"<br>- "useDebugValue"<br><br>Custom Hooks:<br>- "useId"<br>- "useSyncExternalStore"<br>- "useDeferredValue"<br>- "useInsertionEffect"<br>- "useTransition"<br>- "useImperativeHandle"
 | React (State Management) |Introdução a gerenciamento de estado<Br>Utilização de "Redux" para gerenciamento de estado<Br>Utilização de "Zustand" para gerenciamento de estado<Br>Utilização de "Context API" para compartilhar dados entre componentes<Br>Quando e como utilizar o padrão "Render Props"
-| React (Routers) |Introdução ao roteamento<Br>Utilização do "React Router" para criar rotas em uma aplicação React<Br>Utilização de "Route Guards" para controle de acesso
+| React (Routers) |Introdução ao roteamento<Br>Utilização do "react-router-dom" para criar rotas em uma aplicação React<Br>Utilização de "Route Guards" para controle de acesso
 | React (Styling) | Introdução a estilização em React<br>Utilização de "CSS Modules" para escopo de estilos<br>Utilização de "Styled Components" para criar estilos em linha<br>Utilização do "Tailwind" e "Material UI" para estilização
 | React (API Calls) | Introdução a realização de chamadas API<br>Utilização do "axios" para fazer chamadas API<br>Utilização de "SWR" e "react-query" para lidar com estado de dados da API
 | React (Testing) | Introdução a testes em React<Br>Utilização de "Jest" e "React Testing Library" para escrever testes automatizados<br>Utilização de "Playwright" para testes E2E
