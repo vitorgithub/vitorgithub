@@ -15,7 +15,7 @@
 |  NETWORK & SECURITY |**OSI & TCP/IP:** <br> - HTTP / HTTPS <br> - FTP / SFTP<br> - SSL / TLS <br> - SSH <br> - Port Forwarding  | |
 | KERNEL & S.O | ✅ Startup Management (intid)</b></span> <Br> ☑️ Service Management (systemd) <br><Br>- Process Management <Br> - Threads and Concurrency <Br> - Sockets <Br> - POSIX - Basics <br> - Networking Concepts <br> <br> - I/O Management <br>- Virtualization <Br> - Memory/Storage <br> - File Systems |**1° - Principais Conceitos e Termos Relacionados ao GNU/LINUX**<br><br>**2° - Principais Comandos para Manipulação de Arquivos e Diretórios** <br><br>**3° - Básico sobre o Projeto GNU** <br><br>**4° - Comandos Básicos de Administração dos Recursos de um Sistema Linux** <br><br> **5° - Como GERENCIAR e MONITORAR Processos e Serviços**  |
 | CLI - SHELL BASH |**Text Manipulation Tools:**<br>- awk, sed, grep, sort, uniq, cat, cut, echo, fmt, tr, nl, egrep, fgrep, wc<br><br>**Process Monitoring:**<br>- ps, top, htop, atop, isof<Br><Br>**Network:**<br>- nmap, topdump, ping, mtr, traceroute, dig, airman, airodump, dig, iptables, netstat|**System Performance**<br>- nman, iostat, sar, vmstat<br><br>**OTHERS:**<br>- strace, dtrace, systemtap, uname, df, history | 
-| HTML | - Estrutura básica do HTML e suas tags semânticas <br>- Criação de formulários e validações 
+| HTML | Estrutura básica do HTML e suas tags semânticas <br>Criação de formulários e validações 
 | CSS (Basic Syntax) | CSS rules<br>Selectors and declarations<br>Syntax structure<br>Commenting
 | CSS (Box Model) | Box model concept<br>Content, padding, border, and margin<br>Width and height<br>Box-sizing property
 | CSS (Selectors) | Tag selectors<br>Class selectors<br>ID selectors<br>Attribute selectors<br>Pseudo-classes and pseudo-elements<br>Selector priority
@@ -32,20 +32,25 @@
 |CSS (Collaborative Work)|Version control systems (Git, GitHub, GitLab)<br>CSS linting<br>Code reviews<br>Team communication tools (Slack, Microsoft Teams)<br>Project management tools (Jira, Trello)
 |CSS (Career Development)|Building a personal brand<br>Networking and community involvement<br>Continuous learning and staying up-to-date with new CSS trends and techniques<br>Developing a professional portfolio<br>Preparing for interviews and showcasing skills
 |CSS (Additional Skills)|JavaScript for Frontend development<br>CSS-in-JS<br>Server-side rendering<br>Web accessibility<br>Internationalization and localization (i18n and l10n)
-| JAVASCRIPT | - Sintaxe e tipos de dados<br> - Manipular o DOM usando JavaScript <br> - Utilizar Fetch API e/ou Ajax (XHR) para fazer chamadas de API <br> - Hoisting, event bubbling, escopo, protótipo, shadow DOM e modo strict
+| JAVASCRIPT | Sintaxe e tipos de dados<br> Manipulação de DOM usando JavaScript <br> Utilização de Fetch API e/ou Ajax (XHR) para fazer chamadas de API <br> Hoisting, event bubbling, escopo, protótipo, shadow DOM e modo strict
 | React (CLI Tools) | Vite
-| React (Functional Components) | Introdução a Functional Components<br>Como utilizar os hooks em Functional Components<br>Utilização dos componentes de ordem superior em Functional Components
-| React (Components Basics) | Introdução a Componentes<br>Diferença entre componentes de classe e funcionais<br>Como criar componentes reutilizáveis<br>Utilização de props para tornar componentes mais configuráveis<br>Como utilizar state para armazenar dados locais em um componente<br>Quando e como utilizar o padrão "Render Props" 
-| React (Rendering) | Introdução ao ciclo de vida dos componentes<br>O que são e quando usar "Listas e Keys"<br>Como utilizar "Refs" para acessar elementos DOM<br>Utilização de "Eventos" para manipular o comportamento do usuário<br>Quando e como utilizar componentes de ordem superior
-| React (Basic Hooks) | Como utilizar o hook:<br> "useState"<br>"useEffect"<br>"useContext"<br>"useReducer"<br>"useMemo"<br>"useCallback"<br>"useRef"<br>"useImperativeHandle"<br>"useLayoutEffect"<br>"useDebugValue"
+| React (Functional Components) | Introdução a Functional Components<br>Utilização de hooks em Functional Components<br>Utilização dos componentes de ordem superior em Functional Components
+| React (Components Basics) | Introdução a Componentes<br>Diferença entre componentes de classe e funcionais<br>Criação de componentes reutilizáveis<br>Utilização de props para tornar componentes mais configuráveis<br>Como utilizar state para armazenar dados locais em um componente<br>Quando e como utilizar o padrão "Render Props" 
+| React (Rendering) | Introdução ao ciclo de vida dos componentes<br>Utilização de "Listas e Keys"<br>Utilização de "Refs" para acessar elementos DOM<br>Utilização de "Eventos" para manipular o comportamento do usuário<br>Quando e como utilizar componentes de ordem superior
+| React (Basic Hooks) | Utilização de hooks:<br> "useState"<br>"useEffect"<br>"useContext"<br>"useReducer"<br>"useMemo"<br>"useCallback"<br>"useRef"<br>"useImperativeHandle"<br>"useLayoutEffect"<br>"useDebugValue"
 | React (Writing Custom Hooks)|useCallback<br>useContext<br>useDebugValue<br>useDeferredValue<br>useEffect<br>useId<br>useImperativeHandle<br>useInsertionEffect<br>useLayoutEffect<br>useReducer<br>useRef<br>useState<br>useSyncExternalStore<br>useTransition
-| React (State Management) |Introdução a gerenciamento de estado<Br>Utilização de "Redux" para gerenciamento de estado<Br>Utilização de "Zustand" para gerenciamento de estado<Br>Como utilizar "Context API" para compartilhar dados entre componentes<Br>Quando e como utilizar o padrão "Render Props"
+| React (State Management) |Introdução a gerenciamento de estado<Br>Utilização de "Redux" para gerenciamento de estado<Br>Utilização de "Zustand" para gerenciamento de estado<Br>Utilização de "Context API" para compartilhar dados entre componentes<Br>Quando e como utilizar o padrão "Render Props"
 | React (Routers) |Introdução ao roteamento<Br>Como utilizar o "React Router" para criar rotas em uma aplicação React<Br>Utilização de "Route Guards" para controle de acesso
 | React (Styling) | Introdução a estilização em React<br>Utilização de "CSS Modules" para escopo de estilos<br>Utilização de "Styled Components" para criar estilos em linha<br>Como utilizar "Tailwind" e "Material UI" para estilização
 | React (API Calls) | Introdução a realização de chamadas API<br>Como utilizar "axios" para fazer chamadas API<br>Como utilizar "SWR" e "react-query" para lidar com estado de dados da API
 | React (Testing) | Introdução a testes em React<Br>Utilização de "Jest" e "React Testing Library" para escrever testes automatizados<br>Como utilizar "Playwright" para testes E2E
 | React (Framework) | Introdução ao Next.js<br>Como utilizar o Next.js para renderização do lado do servidor<br>Utilização de "Static Site Generation" com Next.js
 | React (Forms) | Introdução a formulários em React<Br>Como utilizar "React Hook Form" para gerenciar formulários  
+| Next.js | Estrutura e a arquitetura do Next.js<br>Roteamento, servidor de desenvolvimento e as ferramentas de construção.<br>Páginas do Next.js e criação de rotas<br>Componentes dinâmicos e estáticos<br>Geração de rotas estáticas e dinâmicas<br>Criação de API com Next.js<br> Criação de páginas de erro personalizadas e resolver com erros no Next.js<br>Utilização de bibliotecas externas em Next.js<br>Implementação de autenticação e autorização em Next.js
+| Next.js (Integração com backend)|Integração do Next.js com um backend existente (Django ou Springboot)<br> Como fazer requisições HTTP do Next.js para o backend<br>Como lidar com dados do backend em componentes do Next.js
+| Next.js (Deploy e hospedagem) | Configuração do deploy do Next.js em serviços de hospedagem em CLOUD, como o Vercel<br>Opções de hospedagem para Next.js, incluindo o uso de serviços de hospedagem gerenciada e plataformas de CLOUD.
+| Next.js (Otimização e desempenho)|Otimização do desempenho de um app Next.js<br>Otimização do tamanho das imagens e do carregamento da página<br>Implementação do pré-carregamento de páginas e outros recursos para melhorar a velocidade do app
+Next.js (Testes) | Teste de aplicativos Next.js<br>Teste de unidade<br>Testes de integração<br>Configuração e execução de testes no ambiente de desenvolvimento
 | PYTHON & JAVA (basic)| - exceptions (tratamento de exceções) <br>- input & print<br>- expressões (aritméticas, lógicas e relacionais)<br>- estruturas de decisão<br>- estruturas de escolha<br>- estruturas de repetição<br>- funções<br>- variáveis primitivas<Br> - variáveis primitivas (Strings)<br>- variáveis compostas  (Collections)<br>- variáveis compostas  (OOP)<br>- datas e horários<br>- manipulação de arquivos
 | PYTHON & JAVA (intermediate) | <u>estrutura de dados e algoritmos</u><br>- arrays & linked-lists<br>- heaps, stacks & queues<br>- hash tables<br>- binary search trees<br>- recursion<br>- sorting algorithms
 | PYTHON & JAVA (advanced) | - regex<br>- design Principles - (S.O.L.I.D)<br>- design Patterns - (G.O.F)<br>- TDD & BDD
@@ -71,20 +76,19 @@
 | DJANGO (deploy) | ASGI e WSGI<br>Deploy da Aplicação Django com NGINX, Gunicorn, SSL, Arquivos Estáticos e Banco de dados
 | DJANGO (escalability) | Escalabilidade de aplicações Django (Celery & RabbitMQ)
 |DJANGO (performance)	|Introdução à Performance<br> Identificação de gargalos de performance<br> Ferramentas de Monitoramento de Performance<br> Melhores práticas para Melhorar a Performance do Django
-| DATA MODELLING:  | - Conceptual<br>- Logical<br>- Physical  | 
+| DATA MODELLING  | - Conceptual<br>- Logical<br>- Physical  | 
 | DATA STORAGES | Database SQL:<br> - PostgreSQL<br><br>Database NoSQL:<br>- MongoDB<br><br>Modern Data Warehouse & Data Marts:<br>- Amazon Redshift<br>- Microsoft Azure Synapse Analytics<br>- Google BigQuery<br>- Snowflake<br><br> Data Lake + Delta Lake:<br>- Amazon S3<br>- Microsoft Azure Data Lake Storage<br>- Google Cloud Storage <br> <br> Data Lake House:<bR>- Amazon Redshift Spectrum<br>- Azure Data Lake Storage Gen2<br>- Google Bigtable<br>- BigQuery External Data| 
 |DATA PROCESSING|BATCH:<br>- Data build tool<br><br>HYBRID:<br> - Apache Spark<br>-  Apache Beam<br>- Apache Flink<br><br>STREAMING:<br>- Apache Kafka<br>- Apache Storm	
 | DATA RETRIEVAL | ElasticSearch (Text SearchEngine)
 |WORKFLOW SCHEDULING| Apache Airflow
 | OBSERVABILITY | - Prometheus<br>- Grafana <br>- Datadog
-| CLOUD COMPUTING:<br>(Azure, Aws & GCP)| - Introduction<br>-  Models<br> - PUBLIC, PRIVATE and HYBRID<br>- Builders<br> - DATA Security<br> - DATA STORES<br> - Virtualização de IaC<br> - Soluções MultiCloud<br>- Orquestração de Serviços e Kubernetes<br><br>SERVERLESS ARCHITECTURE:<Br>- Azure Functions<BR>-  AWS Lambda<br>- Google Functions
-| CI/CD: | Jenkins, Circle CI, GitLab CI ou  **GitHub Actions**<br> - (CI) Continuous Integration <br>- (CD) Continuous Delivery <br> - (CD) Continuous Deployment<br><br>Em resumo:<br>-  Projetar e Implementar SOFTWARES para integração e entrega contínua<br>- Automatizar testes e realizar testes contínuos<br>-  Monitorar software proativamente | 
-|INFRA PROVISIONING:|	Terraform:<br>- essa engine é responsável por versionar e manter o estado de uma infraestrutura inteira<br>- pode ser utilizada na AWS, AZURE, DigitalOcean ou qualquer CLOUD provider
-|CONFIG MANAGEMENT:	| Ansible:<br>- essa engine é responsável por gerenciar a configuração de centenas de servidores<br>- a linguagem YML é utilizada p/ escrever meus playbooks/roles
-| CONTAINERS: | Docker:<br>- Introdução ao Docker<br>- Criação e gerenciamento de containers<br>- Dockerfile & Docker compose
-| CONTAINERS ORCHESTRATION: | Kubernetes "helm"<Br>- Introdução ao Kubernetes<br>- Deployment e escalabilidade<br>- Monitoramento e manutenção<br>- Gerenciamento de containers
+| CLOUD COMPUTING (Azure, Aws & GCP)| - Introduction<br>-  Models<br> - PUBLIC, PRIVATE and HYBRID<br>- Builders<br> - DATA Security<br> - DATA STORES<br> - Virtualização de IaC<br> - Soluções MultiCloud<br>- Orquestração de Serviços e Kubernetes<br><br>SERVERLESS ARCHITECTURE:<Br>- Azure Functions<BR>-  AWS Lambda<br>- Google Functions
+| CI/CD | Jenkins, Circle CI, GitLab CI ou  **GitHub Actions**<br> - (CI) Continuous Integration <br>- (CD) Continuous Delivery <br> - (CD) Continuous Deployment<br><br>Em resumo:<br>-  Projetar e Implementar SOFTWARES para integração e entrega contínua<br>- Automatizar testes e realizar testes contínuos<br>-  Monitorar software proativamente | 
+|INFRA PROVISIONING (Terraform)|	Engine responsável por versionar e manter o estado de uma infraestrutura inteira<br>Pode ser utilizada na AWS, AZURE, DigitalOcean ou qualquer CLOUD provider
+|CONFIG MANAGEMENT (Ansible)	| Ansible é uma enginer responsável por gerenciar a configuração de centenas de servidores<br>A linguagem YML é utilizada p/ escrever meus playbooks/roles
+| CONTAINERS (Docker) | Introdução ao Docker<br>Criação e gerenciamento de containers<br>Dockerfile & Docker compose
+| CONTAINERS ORCHESTRATION (Kubernetes "helm") | Introdução ao Kubernetes<br>Deployment e escalabilidade<br>Monitoramento e manutenção<br>- Gerenciamento de containers
 | MESSAGE BROKER: | RabbitMQ, Azure Service Bus, Google PubSub, Amazon SNS & SQS:<br> - Criar e gerenciar filas de mensagens <br> - Integração com outros sistemas <br> - Prover alta disponibilidade e escalabilidade
-| WEB SERVER: | NGINX <br> - Configurar e gerenciar um servidor web <br> - Prover segurança e performance <br> - Prover balanceamento de carga e proxy reverso<br>- Escalabilidade de webservers com NGINX
 | MONITORING:| - Loggin<br>- Resource Management <br>- Alertas e Observabilidade |   |
 | DATA GOVERNANCE:  | - Controle de Acesso SGBDs<br>- Catálogo de Dados<br>- Auditoria|
 
