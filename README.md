@@ -80,7 +80,7 @@
 | React (API Calls) | Introdução a realização de chamadas API<br>Utilização do "axios" para fazer chamadas API<br>Utilização de "SWR" e "react-query" para lidar com estado de dados da API
 | React (Testing) | Introdução a testes em React<Br>Utilização de "Jest" e "React Testing Library" para escrever testes automatizados<br>Utilização de "Playwright" para testes E2E
 | React (Framework) | Introdução ao Next.js<br>Utilização do Next.js para renderização do lado do servidor<br>Utilização de "Static Site Generation" com Next.js
-| React (Forms) | Introdução a formulários em React<Br>Utilização do "React Hook Form" para gerenciar formulários  
+| React (Forms) | Introdução a formulários em React<Br>Utilização do "React Hook Form" para gerenciar formulários  <br>Utilização da biblioteca Zod para validação e transformação de dados
 | Next.js | Estrutura e a arquitetura do Next.js<br>Roteamento, servidor de desenvolvimento e as ferramentas de construção.<br>Páginas do Next.js e criação de rotas<br>Componentes dinâmicos e estáticos<br>Geração de rotas estáticas e dinâmicas<br>Criação de API com Next.js<br> Criação de páginas de erro personalizadas e resolver com erros no Next.js<br>Utilização de bibliotecas externas em Next.js<br>Implementação de autenticação e autorização em Next.js
 | Next.js (Integração com backend)|Integração do Next.js com um backend existente (Django ou Springboot)<br> Como fazer requisições HTTP do Next.js para o backend<br>Como lidar com dados do backend em componentes do Next.js
 | Next.js (Deploy e hospedagem) | Configuração do deploy do Next.js em serviços de hospedagem em CLOUD, como o Vercel<br>Opções de hospedagem para Next.js, incluindo o uso de serviços de hospedagem gerenciada e plataformas de CLOUD.
