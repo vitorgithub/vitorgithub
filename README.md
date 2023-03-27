@@ -52,7 +52,7 @@
 |Typescript (Interfaces)| Types vs Interfaces<br>Extending Interfaces<br>Interface Declaration<br>Hybrid Types
 | Typescript (Classes)| Constructor Params<br>Constructor Overloading<br>Access Modifiers<br>Abstract Classes<br>Inheritance vs Polymorphism<br>Method Overriding
 | Typescript (Generics)| Generic Types<br>Generic Constrains
-| Typescript (Decorators) | 
+| Typescript (Decorators) | Criação de Decorators personalizados em TS<br>Utilização de Decorators em Classes para adicionar funcionalidades ou alterar comportamentos<br>Utilização de Decorators em métodos para modificar ou monitorar o comportamento do método.<br>Utilização de Decorators em propriedades de classe para monitorar ou modificar o valor da propriedade.<br>Utilização de Decorators em parâmetros de função ou método para modificar ou validar os parâmetros.<br>Utilização de Decorators em atributos de classes para adicionar metadados à classe.<br>Utilização de Decorators com frameworks populares como ReactJS e AngularJS.<br>Utilização de Decorators em módulos para alterar o comportamento de um módulo.<br>Utilização de Decorators em padrões de projeto como o padrão Decorator e o padrão Adapter.
 | Typescript (Utility Types)| Partial<br>Pick<br>Omit<br>Readonly<br>Record<br>Exclude<br>Extract<br>NonNullable<br>Parameters<br>ReturnType<br>InstanceType<br>Awaited
 | Typescript (Modules)| Namespace Argumentation<br>Global argumentation
 | Typescript (Ecosystem) | Formatting<br>Linting<br>Useful Packages<br>Build Tools
