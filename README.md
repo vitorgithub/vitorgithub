@@ -87,6 +87,9 @@ Next.js (Testes) | Teste de aplicativos Next.js<br>Teste de unidade<br>Testes de
 | PYTHON & JAVA (basic)| clean-code<br>input & print<br>expressões (aritméticas, lógicas e relacionais)<br estruturas de decisão<br> estruturas de escolha<br> estruturas de repetição<br> funções<br> variáveis primitivas<Br> variáveis primitivas (Strings)<br> variáveis compostas  (Collections)<br> variáveis compostas  (OOP)<br> datas e horários<br> manipulação de arquivos<br>testes & manipulação de exceções<br>teste de configuração<br>teste de instalação	<bR>teste de integridade<Br>teste de segurança<br>teste funcional<br>teste de unidade<br>teste de integração<br> teste de volume<br> teste de usabilidade<br> teste de regressão<br>teste de manutenção.	
 | PYTHON & JAVA (intermediate) | <u>estrutura de dados e algoritmos</u><br>- arrays & linked-lists<br>- heaps, stacks & queues<br>- hash tables<br>- binary search trees<br>- recursion<br>- sorting algorithms
 | PYTHON & JAVA (advanced) | - regex<br>- design Principles - (S.O.L.I.D)<br>- design Patterns - (G.O.F)<br>- TDD & BDD
+| DATA MODELLING  | - Conceptual<br>- Logical<br>- Physical  | 
+| DATA STORAGES | Database SQL:<br> - PostgreSQL<br><br>Database NoSQL:<br>- MongoDB<br><br>Modern Data Warehouse & Data Marts:<br>- Amazon Redshift<br>- Microsoft Azure Synapse Analytics<br>- Google BigQuery<br>- Snowflake<br><br> Data Lake + Delta Lake:<br>- Amazon S3<br>- Microsoft Azure Data Lake Storage<br>- Google Cloud Storage <br> <br> Data Lake House:<bR>- Amazon Redshift Spectrum<br>- Azure Data Lake Storage Gen2<br>- Google Bigtable<br>- BigQuery External Data| 
+| CLOUD COMPUTING (Azure, Aws & GCP)| - Introduction<br>-  Models<br> - PUBLIC, PRIVATE and HYBRID<br>- Builders<br> - DATA Security<br> - DATA STORES<br> - Virtualização de IaC<br> - Soluções MultiCloud<br>- Orquestração de Serviços e Kubernetes<br><br>SERVERLESS ARCHITECTURE:<Br>- Azure Functions<BR>-  AWS Lambda<br>- Google Functions   
 | DJANGO | Configuração do Ambiente Virtual de Desenvolvimento<br>Gerenciador de Pacotes Pip<br>Instalação e Configuração<br>Arquitetura MTV<br>Settings.py
 | DJANGO (URLs)|URL Dispatcher<br>Rotas Dinâmicas<Br>Filters
 | DJANGO (templates) | Introdução aos Templates<br> Tags e Filtros do Django<br> Template Inheritance
@@ -109,8 +112,8 @@ Next.js (Testes) | Teste de aplicativos Next.js<br>Teste de unidade<br>Testes de
 | DJANGO (deploy) | ASGI e WSGI<br>Deploy da Aplicação Django com NGINX, Gunicorn, SSL, Arquivos Estáticos e Banco de dados
 | DJANGO (escalability) | Escalabilidade de aplicações Django (Celery & RabbitMQ)
 | DJANGO (performance)	|Introdução à Performance<br> Identificação de gargalos de performance<br> Ferramentas de Monitoramento de Performance<br> Melhores práticas para Melhorar a Performance do Django
-|INFRA PROVISIONING <br>(Terraform)|Provisionar a infraestrutura necessária para o sistema, como instâncias EC2 na AWS ou VMs no Azure
-|CONFIG MANAGEMENT <br>(Ansible)	| Gerenciar a configuração dos servidores e garantir que todas as dependências necessárias estejam instaladas<br>A linguagem YAML é utilizada p/ escrever meus playbooks/roles
+| INFRA PROVISIONING <br>(Terraform)|Provisionar a infraestrutura necessária para o sistema, como instâncias EC2 na AWS ou VMs no Azure
+| CONFIG MANAGEMENT <br>(Ansible)	| Gerenciar a configuração dos servidores e garantir que todas as dependências necessárias estejam instaladas<br>A linguagem YAML é utilizada p/ escrever meus playbooks/roles
 | CONTAINERS <br>(Docker) | Criação e gerenciamento de containers que executam o software
 | CONTAINERS ORCHESTRATION <br>(Kubernetes c/ Helm) | Implantar o sistema em múltiplos containers e gerenciá-los em escala
 |DATA PROCESSING|BATCH:<br>- Data build tool<br><br>HYBRID:<br> - Apache Spark<br>-  Apache Beam<br>- Apache Flink<br><br>STREAMING:<br>- Apache Kafka<br>- Apache Storm	<br><br>DATA RETRIEVAL:<br>- ElasticSearch (Text SearchEngine)
