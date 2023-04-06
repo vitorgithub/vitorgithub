@@ -1,9 +1,7 @@
 <div align="center">
    <a href = https://www.linkedin.com/in/vitorgithub><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-      
-## Seja seu próprio ídolo, professor e melhor amigo!
-      
+          
 - 🌎 **```Engenharia de Software & Engenharia de Dados;```**
 - 🔎 **```Autodidata, analítico, multidisciplinar e detalhista;```**
 - ⏰ **```Estudo entre 10 a 14 horas diariamente;```**
