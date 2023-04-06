@@ -100,7 +100,7 @@ Next.js (Testes) | Teste de aplicativos Next.js<br>Teste de unidade<br>Testes de
 | DJANGO (ORM) |ORM Django<br>SQL Personalizado<br>Gerenciamento de Migrações<br>Administração do Banco de Dados
 | DJANGO (middleware) | Introdução ao Middleware<br> Middleware de Autenticação<br> Middleware de Cache<br> Middleware de Depuração<br> Middleware de Compressão<br> Middleware Personalizado
 | DJANGO (internationalization and localization)	|Internacionalização e Localização<br> Tradução de Texto<br> Formatos de Data e Hora<br> Formatos Numéricos<br> Identificação de Idioma do Usuário<br> Middleware de Internacionalização
-|DJANGO (testing)	|Introdução ao Teste de Unidade Django<br> Teste de Unidade em Models<br> Teste de Unidade em Views<br> Teste de Unidade em Templates<br> Teste de Integração<br> Teste Funcional<br> Cobertura de Testes<br> Test-Driven Development (TDD)
+| DJANGO (testing)	|Introdução ao Teste de Unidade Django<br> Teste de Unidade em Models<br> Teste de Unidade em Views<br> Teste de Unidade em Templates<br> Teste de Integração<br> Teste Funcional<br> Cobertura de Testes<br> Test-Driven Development (TDD)
 | DJANGO (caching) |  Configuração do Cache em Django<br>Cache Local<br>Cache Distribuído com Redis 
 | DJANGO (logging) | Framework de Log (Python Logging & Django-Logging)<br>Gerenciador de Log (ELK Stack e Sentry.io)
 | DJANGO APIs|	REST Framework Django (Criar uma API RESTful utilizando Serializers e Viewsets/Routers)<br>Autenticação e Autorização de API<br>Validação de Entrada de Dados utilizando a biblioteca pytest <br>Tratamento de Erros e Exceções<br>Documentação de APIs com OpenAPI/Swagger<br>Integração de APIs com outros Sistemas e Serviços<br>Testes Automatizados de APIs<br>Segurança de APIs<br>Cache em APIs utilizando Redis<br>Monitoramento de APIs<br>Versionamento de APIs<br>Escalabilidade de APIs com Celery e RabbitMQ<br>Django Channels
@@ -108,20 +108,20 @@ Next.js (Testes) | Teste de aplicativos Next.js<br>Teste de unidade<br>Testes de
 | DJANGO (payments and checkout) | Pagamentos Únicos, Assinaturas e Reembolsos com Stripe<br>Webhooks para Pagamentos e Checkout
 | DJANGO (deploy) | ASGI e WSGI<br>Deploy da Aplicação Django com NGINX, Gunicorn, SSL, Arquivos Estáticos e Banco de dados
 | DJANGO (escalability) | Escalabilidade de aplicações Django (Celery & RabbitMQ)
-|DJANGO (performance)	|Introdução à Performance<br> Identificação de gargalos de performance<br> Ferramentas de Monitoramento de Performance<br> Melhores práticas para Melhorar a Performance do Django
-| DATA MODELLING  | - Conceptual<br>- Logical<br>- Physical  | 
-| DATA STORAGES | Database SQL:<br> - PostgreSQL<br><br>Database NoSQL:<br>- MongoDB<br><br>Modern Data Warehouse & Data Marts:<br>- Amazon Redshift<br>- Microsoft Azure Synapse Analytics<br>- Google BigQuery<br>- Snowflake<br><br> Data Lake + Delta Lake:<br>- Amazon S3<br>- Microsoft Azure Data Lake Storage<br>- Google Cloud Storage <br> <br> Data Lake House:<bR>- Amazon Redshift Spectrum<br>- Azure Data Lake Storage Gen2<br>- Google Bigtable<br>- BigQuery External Data| 
-|DATA PROCESSING|BATCH:<br>- Data build tool<br><br>HYBRID:<br> - Apache Spark<br>-  Apache Beam<br>- Apache Flink<br><br>STREAMING:<br>- Apache Kafka<br>- Apache Storm	
-| DATA RETRIEVAL | ElasticSearch (Text SearchEngine)
-|WORKFLOW SCHEDULING| Apache Airflow
-| OBSERVABILITY | - Prometheus<br>- Grafana <br>- Datadog
-| CLOUD COMPUTING (Azure, Aws & GCP)| - Introduction<br>-  Models<br> - PUBLIC, PRIVATE and HYBRID<br>- Builders<br> - DATA Security<br> - DATA STORES<br> - Virtualização de IaC<br> - Soluções MultiCloud<br>- Orquestração de Serviços e Kubernetes<br><br>SERVERLESS ARCHITECTURE:<Br>- Azure Functions<BR>-  AWS Lambda<br>- Google Functions
-| CI/CD | Jenkins, Circle CI, GitLab CI ou  **GitHub Actions**<br> - (CI) Continuous Integration <br>- (CD) Continuous Delivery <br> - (CD) Continuous Deployment<br><br>Em resumo:<br>-  Projetar e Implementar SOFTWARES para integração e entrega contínua<br>- Automatizar testes e realizar testes contínuos<br>-  Monitorar software proativamente | 
-|INFRA PROVISIONING (Terraform)|	Engine responsável por versionar e manter o estado de uma infraestrutura inteira<br>Pode ser utilizada na AWS, AZURE, DigitalOcean ou qualquer CLOUD provider
-|CONFIG MANAGEMENT (Ansible)	| Ansible é uma enginer responsável por gerenciar a configuração de centenas de servidores<br>A linguagem YML é utilizada p/ escrever meus playbooks/roles
-| CONTAINERS (Docker) | Introdução ao Docker<br>Criação e gerenciamento de containers<br>Dockerfile & Docker compose
-| CONTAINERS ORCHESTRATION (Kubernetes "helm") | Introdução ao Kubernetes<br>Deployment e escalabilidade<br>Monitoramento e manutenção<br>- Gerenciamento de containers
-| MESSAGE BROKER | RabbitMQ, Azure Service Bus, Google PubSub, Amazon SNS & SQS:<br> - Criar e gerenciar filas de mensagens <br> - Integração com outros sistemas <br> - Prover alta disponibilidade e escalabilidade
-| MONITORING| - Loggin<br>- Resource Management <br>- Alertas e Observabilidade |   |
-| DATA GOVERNANCE  | - Controle de Acesso SGBDs<br>- Catálogo de Dados<br>- Auditoria|
+| DJANGO (performance)	|Introdução à Performance<br> Identificação de gargalos de performance<br> Ferramentas de Monitoramento de Performance<br> Melhores práticas para Melhorar a Performance do Django
+|INFRA PROVISIONING <br>(Terraform)|Provisionar a infraestrutura necessária para o sistema, como instâncias EC2 na AWS ou VMs no Azure
+|CONFIG MANAGEMENT <br>(Ansible)	| Gerenciar a configuração dos servidores e garantir que todas as dependências necessárias estejam instaladas<br>A linguagem YAML é utilizada p/ escrever meus playbooks/roles
+| CONTAINERS <br>(Docker) | Criação e gerenciamento de containers que executam o software
+| CONTAINERS ORCHESTRATION <br>(Kubernetes c/ Helm) | Implantar o sistema em múltiplos containers e gerenciá-los em escala
+|DATA PROCESSING|BATCH:<br>- Data build tool<br><br>HYBRID:<br> - Apache Spark<br>-  Apache Beam<br>- Apache Flink<br><br>STREAMING:<br>- Apache Kafka<br>- Apache Storm	<br><br>DATA RETRIEVAL:<br>- ElasticSearch (Text SearchEngine)
+| CI/CD<br>(GitHub Actions, GitLab CI) | Garantir a qualidade do código<br>Automatizar testes<br>Entregar novas versões rapidamente
+| WORKFLOW SCHEDULING<Br>(Apache Airflow)|Definir um fluxo de trabalho para o desenvolvimento do software e agendar as tarefas de acordo com as dependências
+| OBSERVABILITY<br>(Prometheus, Grafana ou Datadog) | Coletar métricas e logs para monitorar o sistema em tempo real e identificar problemas de performance e disponibilidade<br>Configurar alertas e monitoramento proativo
+| PERFORMANCE<br>(New Relic ou Prometheus) | Identificar e solucionar gargalos de performance no sistema
+| MESSAGE BROKER<br>(RabbitMQ ou AWS SQS) |Gerenciar a comunicação entre diferentes componentes do sistema<br><Br>- Criar e gerenciar filas de mensagens <br> - Integração com outros sistemas <br> - Prover alta disponibilidade e escalabilidade
+| DATA GOVERNANCE  | Implementar controles de acesso e auditoria de dados para garantir a segurança e conformidade do sistema|
+
+   
+   
+   
 
