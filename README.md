@@ -107,12 +107,12 @@ Next.js (Testes) | Teste de aplicativos Next.js<br>Teste de unidade<br>Testes de
 | DJANGO (process task and messages) | Django e Celery para "fila de tarefas" (Worker e Broker)<br>Django Channels para "WebSockets"
 | DJANGO (payments and checkout) | Pagamentos Únicos, Assinaturas e Reembolsos com Stripe<br>Webhooks para Pagamentos e Checkout
 | DJANGO (deploy) | ASGI e WSGI<br>Deploy da Aplicação Django com NGINX, Gunicorn, SSL, Arquivos Estáticos e Banco de dados
-| DJANGO (escalability c/ Celery + Message Broker) | Escalabilidade de aplicações Django (Celery + RabbitMQ, Redis, Amazon SQS ou Apache Kafka)<br><br>Gerenciar a comunicação entre diferentes componentes do sistema<br><Br>- Criar e gerenciar filas de mensagens <br> - Integração com outros sistemas <br> - Prover alta disponibilidade e escalabilidade
+| DJANGO (escalabilidade c/ Celery + Message Broker) | **Celery + RabbitMQ, Redis, Amazon SQS ou Apache Kafka**<br>- Gerenciar a comunicação entre diferentes componentes do sistema<br>- Criar e gerenciar filas de mensagens <br> - Integração com outros sistemas <br> - Prover alta disponibilidade e escalabilidade
 | DJANGO (performance c/ Prometheus ou New Relic)	|Introdução à Performance<br> Identificação de gargalos de performance<br> Ferramentas de Monitoramento de Performance<br> Melhores práticas para Melhorar a Performance do Django
-| INFRA PROVISIONING <br>(Terraform)|Provisionar a infraestrutura necessária para o sistema, como instâncias EC2 na AWS ou VMs no Azure
-| CONFIG MANAGEMENT <br>(Ansible with YAML)	| Gerenciar a configuração dos servidores e garantir que todas as dependências necessárias estejam instaladas
 | CONTAINERS <br>(Docker) | Criação e gerenciamento de containers que executam o software
 | CONTAINERS ORCHESTRATION <br>(Kubernetes c/ Helm) | Implantar o sistema em múltiplos containers e gerenciá-los em escala
+| INFRA PROVISIONING <br>(Terraform)|Provisionar a infraestrutura necessária para o sistema, como instâncias EC2 na AWS ou VMs no Azure
+| CONFIG MANAGEMENT <br>(Ansible with YAML)	| Gerenciar a configuração dos servidores e garantir que todas as dependências necessárias estejam instaladas
 | CI/CD<br>(GitHub Actions, GitLab CI) | Garantir a qualidade do código<br>Automatizar testes<br>Entregar novas versões rapidamente
 | WORKFLOW SCHEDULING<Br>(Apache Airflow)|Definir um fluxo de trabalho para o desenvolvimento do software e agendar as tarefas de acordo com as dependências
 | OBSERVABILITY<br>(Prometheus, Datadog, Sentry ou Graphana) | Coletar métricas e logs para monitorar o sistema em tempo real e identificar problemas de performance e disponibilidade<br>Configurar alertas e monitoramento proativo
