@@ -86,7 +86,8 @@
 Next.js (Testes) | Teste de aplicativos Next.js<br>Teste de unidade<br>Testes de integração<br>Configuração e execução de testes no ambiente de desenvolvimento
 | PYTHON & JAVA (basic)| clean-code<br>input & print<br>expressões (aritméticas, lógicas e relacionais)<br estruturas de decisão<br> estruturas de escolha<br> estruturas de repetição<br> funções<br> variáveis primitivas<Br> variáveis primitivas (Strings)<br> variáveis compostas  (Collections)<br> variáveis compostas  (OOP)<br> datas e horários<br> manipulação de arquivos<br>testes & manipulação de exceções<br>teste de configuração<br>teste de instalação	<bR>teste de integridade<Br>teste de segurança<br>teste funcional<br>teste de unidade<br>teste de integração<br> teste de volume<br> teste de usabilidade<br> teste de regressão<br>teste de manutenção.	
 | PYTHON & JAVA (intermediate) | <u>estrutura de dados e algoritmos</u><br>- arrays & linked-lists<br>- heaps, stacks & queues<br>- hash tables<br>- binary search trees<br>- recursion<br>- sorting algorithms
-| PYTHON & JAVA (advanced) | - regex<br>- design Principles - (S.O.L.I.D)<br>- design Patterns - (G.O.F)<br>- TDD & BDD   
+| PYTHON & JAVA (advanced) | - regex<br>- design Principles - (S.O.L.I.D)<br>- design Patterns - (G.O.F)<br>- TDD & BDD
+| DATA MODELLING | - Conceptual<br>- Lógical<br>- Physical
 | DJANGO | Configuração do Ambiente Virtual de Desenvolvimento<br>Gerenciador de Pacotes Pip<br>Instalação e Configuração<br>Arquitetura MTV<br>Settings.py
 | DJANGO (URLs)|URL Dispatcher<br>Rotas Dinâmicas<Br>Filters
 | DJANGO (templates) | Introdução aos Templates<br> Tags e Filtros do Django<br> Template Inheritance
@@ -100,7 +101,7 @@ Next.js (Testes) | Teste de aplicativos Next.js<br>Teste de unidade<br>Testes de
 | DJANGO (ORM) |ORM Django<br>SQL Personalizado<br>Gerenciamento de Migrações<br>Administração do Banco de Dados
 | DJANGO (middleware) | Introdução ao Middleware<br> Middleware de Autenticação<br> Middleware de Cache<br> Middleware de Depuração<br> Middleware de Compressão<br> Middleware Personalizado
 | DJANGO (internationalization and localization)	|Internacionalização e Localização<br> Tradução de Texto<br> Formatos de Data e Hora<br> Formatos Numéricos<br> Identificação de Idioma do Usuário<br> Middleware de Internacionalização
-| DJANGO (testing)	|Introdução ao Teste de Unidade Django<br> Teste de Unidade em Models<br> Teste de Unidade em Views<br> Teste de Unidade em Templates<br> Teste de Integração<br> Teste Funcional<br> Cobertura de Testes<br> Test-Driven Development (TDD)
+| DJANGO (testing)	|Teste de Unidade em Models, Views e Templates<br> Teste de Integração<br> Teste Funcional<br> Cobertura de Testes<br> Test-Driven Development (TDD)
 | DJANGO (caching) |  Configuração do Cache em Django<br>Cache Local<br>Cache Distribuído com Redis 
 | DJANGO (logging) | Framework de Log (Python Logging & Django-Logging)<br>Gerenciador de Log (ELK Stack e Sentry.io)
 | DJANGO APIs|	REST Framework Django (Criar uma API RESTful utilizando Serializers e Viewsets/Routers)<br>Autenticação e Autorização de API<br>Validação de Entrada de Dados utilizando a biblioteca pytest <br>Tratamento de Erros e Exceções<br>Documentação de APIs com OpenAPI/Swagger<br>Integração de APIs com outros Sistemas e Serviços<br>Testes Automatizados de APIs<br>Segurança de APIs<br>Cache em APIs utilizando Redis<br>Monitoramento de APIs<br>Versionamento de APIs<br>Escalabilidade de APIs com Celery e RabbitMQ<br>Django Channels
