@@ -86,8 +86,9 @@
 Next.js (Testes) | Teste de aplicativos Next.js<br>Teste de unidade<br>Testes de integração<br>Configuração e execução de testes no ambiente de desenvolvimento
 | PYTHON & JAVA (basic)| clean-code<br>input & print<br>expressões (aritméticas, lógicas e relacionais)<br estruturas de decisão<br> estruturas de escolha<br> estruturas de repetição<br> funções<br> variáveis primitivas<Br> variáveis primitivas (Strings)<br> variáveis compostas  (Collections)<br> variáveis compostas  (OOP)<br> datas e horários<br> manipulação de arquivos<br>testes & manipulação de exceções<br>teste de configuração<br>teste de instalação	<bR>teste de integridade<Br>teste de segurança<br>teste funcional<br>teste de unidade<br>teste de integração<br> teste de volume<br> teste de usabilidade<br> teste de regressão<br>teste de manutenção.	
 | PYTHON & JAVA (intermediate) | <u>estrutura de dados e algoritmos</u><br>- arrays & linked-lists<br>- heaps, stacks & queues<br>- hash tables<br>- binary search trees<br>- recursion<br>- sorting algorithms
-| PYTHON & JAVA (advanced) | - regex<br>- design Principles - (S.O.L.I.D)<br>- design Patterns - (G.O.F)<br>- TDD & BDD
+| PYTHON & JAVA (advanced) | - regex<br>- design principles - (S.O.L.I.D)<br>- design patterns - (G.O.F)<br>- TDD & BDD
 | DATA MODELLING | - Conceptual<br>- Lógical<br>- Physical
+| DBMS | SQL & NoSQL
 | DJANGO | Configuração do Ambiente Virtual de Desenvolvimento<br>Gerenciador de Pacotes Pip<br>Instalação e Configuração<br>Arquitetura MTV<br>Settings.py
 | DJANGO (URLs)|URL Dispatcher<br>Rotas Dinâmicas<Br>Filters
 | DJANGO (templates) | Introdução aos Templates<br> Tags e Filtros do Django<br> Template Inheritance
@@ -116,7 +117,7 @@ Next.js (Testes) | Teste de aplicativos Next.js<br>Teste de unidade<br>Testes de
 | CONFIG MANAGEMENT <br>(Ansible with YAML)	| Gerenciar a configuração dos servidores e garantir que todas as dependências necessárias estejam instaladas
 | CI/CD<br>(GitHub Actions, GitLab CI) | Garantir a qualidade do código<br>Automatizar testes<br>Entregar novas versões rapidamente
 | WORKFLOW SCHEDULING<Br>(Apache Airflow)|Definir um fluxo de trabalho para o desenvolvimento do software e agendar as tarefas de acordo com as dependências
-| OBSERVABILITY<br>(Prometheus, Datadog, Sentry ou Graphana) | Coletar métricas e logs para monitorar o sistema em tempo real e identificar problemas de performance e disponibilidade<br>Configurar alertas e monitoramento proativo
+| INFRA MONITORING<br>(Prometheus, Datadog, Sentry ou Graphana) | Coletar métricas e logs para monitorar o sistema em tempo real e identificar problemas de performance e disponibilidade<br>Configurar alertas e monitoramento proativo
 | DATA GOVERNANCE  | Implementar controles de acesso e auditoria de dados para garantir a segurança e conformidade do sistema|
 
 |**DATA SOURCES** |  Data Ingestion |  Data Processing |  Data Storage |  Workflow scheduling| Monitoring data pipelines | 
