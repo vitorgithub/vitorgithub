@@ -10,14 +10,14 @@
 
 |<span style="color:blue;"><b>MY PERSONAL ROADMAP:</b></span> ||
 | :-- | :-- | 
-|  NETWORK & SECURITY |**OSI & TCP/IP:** <br> - HTTP / HTTPS <br> - FTP / SFTP<br> - SSL / TLS <br> - SSH <br> - Port Forwarding  | |
+| NETWORK & SECURITY |**OSI & TCP/IP:** <br> - HTTP / HTTPS <br> - FTP / SFTP<br> - SSL / TLS <br> - SSH <br> - Port Forwarding  | |
 | KERNEL & S.O | ✅ Startup Management (intid)</b></span> <Br> ☑️ Service Management (systemd) <br><Br>- Process Management <Br> - Threads and Concurrency <Br> - Sockets <Br> - POSIX - Basics <br> - Networking Concepts <br> <br> - I/O Management <br>- Virtualization <Br> - Memory/Storage <br> - File Systems |**1° - Principais Conceitos e Termos Relacionados ao GNU/LINUX**<br><br>**2° - Principais Comandos para Manipulação de Arquivos e Diretórios** <br><br>**3° - Básico sobre o Projeto GNU** <br><br>**4° - Comandos Básicos de Administração dos Recursos de um Sistema Linux** <br><br> **5° - Como GERENCIAR e MONITORAR Processos e Serviços**  |
 | CLI - SHELL BASH |**Text Manipulation Tools:**<br>- awk, sed, grep, sort, uniq, cat, cut, echo, fmt, tr, nl, egrep, fgrep, wc<br><br>**Process Monitoring:**<br>- ps, top, htop, atop, isof<Br><Br>**Network:**<br>- nmap, topdump, ping, mtr, traceroute, dig, airman, airodump, dig, iptables, netstat|**System Performance**<br>- nman, iostat, sar, vmstat<br><br>**OTHERS:**<br>- strace, dtrace, systemtap, uname, df, history | 
 | HTML | Estrutura básica do HTML e suas tags semânticas <br>Criação de formulários e validações 
-| CSS (Basic Syntax) | CSS rules<br>Selectors and declarations<br>Syntax structure<br>Commenting
-| CSS (Box Model) | Box model concept<br>Content, padding, border, and margin<br>Width and height<br>Box-sizing property
-| CSS (Selectors) | Tag selectors<br>Class selectors<br>ID selectors<br>Attribute selectors<br>Pseudo-classes and pseudo-elements<br>Selector priority
-| CSS (Typography) | Font family, size & style<br>Text color and background<br>Line height and spacing<br>Text alignment and decoration
+|CSS (Basic Syntax) | CSS rules<br>Selectors and declarations<br>Syntax structure<br>Commenting
+|CSS (Box Model) | Box model concept<br>Content, padding, border, and margin<br>Width and height<br>Box-sizing property
+|CSS (Selectors) | Tag selectors<br>Class selectors<br>ID selectors<br>Attribute selectors<br>Pseudo-classes and pseudo-elements<br>Selector priority
+|CSS (Typography) | Font family, size & style<br>Text color and background<br>Line height and spacing<br>Text alignment and decoration
 |CSS (Layout)|Floats<br>Positioning<br>Display property<br>Box alignment<br>Responsive design techniques
 |CSS (Frameworks)|Popular CSS frameworks (Bootstrap, Tailwind CSS)<br>Pre-built UI components<br>Grid systems<br>Customization options
 |CSS (Preprocessors)|Popular CSS preprocessors (Sass, Less, etc.)<br>Variables<br>Nesting<br>Mixins<br>Functions
@@ -83,7 +83,7 @@
 | Next.js (Integração com backend)|Integração do Next.js com um backend existente (Django ou Springboot)<br> Como fazer requisições HTTP do Next.js para o backend<br>Como lidar com dados do backend em componentes do Next.js
 | Next.js (Deploy e hospedagem) | Configuração do deploy do Next.js em serviços de hospedagem em CLOUD, como o Vercel<br>Opções de hospedagem para Next.js, incluindo o uso de serviços de hospedagem gerenciada e plataformas de CLOUD.
 | Next.js (Otimização e desempenho)|Otimização do desempenho de um app Next.js<br>Otimização do tamanho das imagens e do carregamento da página<br>Implementação do pré-carregamento de páginas e outros recursos para melhorar a velocidade do app
-Next.js (Testes) | Teste de aplicativos Next.js<br>Teste de unidade<br>Testes de integração<br>Configuração e execução de testes no ambiente de desenvolvimento
+|Next.js (Testes) | Teste de aplicativos Next.js<br>Teste de unidade<br>Testes de integração<br>Configuração e execução de testes no ambiente de desenvolvimento
 | PYTHON & JAVA (basic)| clean-code<br>input & print<br>expressões (aritméticas, lógicas e relacionais)<br estruturas de decisão<br> estruturas de escolha<br> estruturas de repetição<br> funções<br> variáveis primitivas<Br> variáveis primitivas (Strings)<br> variáveis compostas  (Collections)<br> variáveis compostas  (OOP)<br> datas e horários<br> manipulação de arquivos<br>testes & manipulação de exceções<br>teste de configuração<br>teste de instalação	<bR>teste de integridade<Br>teste de segurança<br>teste funcional<br>teste de unidade<br>teste de integração<br> teste de volume<br> teste de usabilidade<br> teste de regressão<br>teste de manutenção.	
 | PYTHON & JAVA (intermediate) | <u>estrutura de dados e algoritmos</u><br>- arrays & linked-lists<br>- heaps, stacks & queues<br>- hash tables<br>- binary search trees<br>- recursion<br>- sorting algorithms
 | PYTHON & JAVA (advanced) | - regex<br>- design principles - (S.O.L.I.D)<br>- design patterns - (G.O.F)<br>- TDD & BDD
