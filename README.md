@@ -19,38 +19,34 @@
 |CSS (Selectors) | Tag selectors<br>Class selectors<br>ID selectors<br>Attribute selectors<br>Pseudo-classes and pseudo-elements<br>Selector priority
 |CSS (Typography) | Font family, size & style<br>Text color and background<br>Line height and spacing<br>Text alignment and decoration
 |CSS (Layout)|Floats<br>Positioning<br>Display property<br>Box alignment<br>Responsive design techniques
-|CSS (Frameworks)|Popular CSS frameworks (Bootstrap, Tailwind CSS)<br>Pre-built UI components<br>Grid systems<br>Customization options
-|CSS (Preprocessors)|Popular CSS preprocessors (Sass, Less, etc.)<br>Variables<br>Nesting<br>Mixins<br>Functions
+|CSS (Responsive Design)|Media queries<br>Viewport meta tag<br>Responsive images and videos<br>Responsive typography<br>Mobile-first design approach
 |CSS (Flexbox:)|Container and items<br>Direction, wrap, and flow<br>Alignment and justification<br>Responsive design with Flexbox
 |CSS (CSS Grid)|Container and items<br>Tracks and lines<br>Areas and cells<br>Alignment and positioning<br>Responsive design with CSS Grid
-|CSS (Responsive Design)|Media queries<br>Viewport meta tag<br>Responsive images and videos<br>Responsive typography<br>Mobile-first design approach
+|CSS (Frameworks)|Popular CSS frameworks (Bootstrap, Tailwind CSS)<br>Pre-built UI components<br>Grid systems<br>Customization options
+|CSS (Preprocessors)|Popular CSS preprocessors (Sass, Less, etc.)<br>Variables<br>Nesting<br>Mixins<br>Functions
 |CSS (Web Standards)|HTML and CSS validation<br>Semantic HTML<br>Accessibility standards<br>Cross-browser compatibility<br>Web performance optimization
 |CSS (Advanced Styling)|CSS animations<br>Transitions<br>Transformations<br>Filters<br>Blend modes<br>Custom properties (CSS variables)
 |CSS (Architecture)|BEM (Block Element Modifier) methodology<br>CSS naming conventions<br>CSS methodologies (SMACSS, OOCSS)<br>CSS modules and namespaces<br>Atomic CSS
 |CSS (Collaborative Work)|Version control systems (Git, GitHub, GitLab)<br>CSS linting<br>Code reviews<br>Team communication tools (Slack, Microsoft Teams)<br>Project management tools (Jira, Trello)
 |CSS (Career Development)|Building a personal brand<br>Networking and community involvement<br>Continuous learning and staying up-to-date with new CSS trends and techniques<br>Developing a professional portfolio<br>Preparing for interviews and showcasing skills
 |CSS (Additional Skills)|JavaScript for Frontend development<br>CSS-in-JS<br>Server-side rendering<br>Web accessibility<br>Internationalization and localization (i18n and l10n)
-| JS (Variáveis) | Variable Declarations (var, let and const)<br>Hoisting<br>Variable Naming Rules<bR>Variable Scopes (Global Scope, Function Scope, and Block Scope) 
-| JS (Variáveis primitivas) | string, undefined, number, bigint, boolean, null and Symbol 
-| JS (Variáveis compostas) | Object (Number, Boolean, Math, Date, String, Error, Function) <Br>Object Prototype<bR>Prototypal Inheritance
+| JS (Basic Syntax) | Variable Declarations (var, let and const)<br>Hoisting<br>Variable Naming Rules<bR>Variable Scopes (Global Scope, Function Scope, and Block Scope)
+| JS (Data Types) | Primitive Data Types: string, undefined, number, bigint, boolean, null and Symbol <br>Composite Data Types: Object (Number, Boolean, Math, Date, String, Error, Function)<br>Object Prototype<br>Prototypal Inheritance
 | JS (Type Casting) | Implicit Type Casting<br>Explicit Type Casting<br>Type Conversion vs Coercion |
 | JS (Equality Comparisons) | `==`<br>`===`<br> `Object.is()`
-| JS (Equality Algorithms Comparisons) |  isLooselyEqual<br>isStrictlyEqual<br>SameValueZero<br>SameValue
-| JS (Data Structures) |Index Collections:<br>- arrays<br>- typed arrays
-| JS (Data Structures) |Keyed Collections:<br>- Map, WeakMap<br>- Set, Weak Set
+| JS (Data Structures) |Index Collections:<br>- arrays<br>- typed arrays<br>Keyed Collections:<br>- Map, WeakMap<br>- Set, Weak Set
 | JS (Expressions & Operators) | Assignment Operators<br>Comparison Operators<br>Arithmetic Operators<br>Bitwise Operators<br>Logical Operators<br>BigInt Operators<br>String Operators<br>Conditional Operators<br>Comma Operators<br>Unary Operators<br>Relational Operators
+| JS (Control Structures) | If.. else<br>Switch<br>For loop<br>While loop<br>Do-while loop<br>Break statement<br>Continue statement<br>For...in loop<br>For...of loop<br>Iterators and generators
 | JS (Functions) | Function Parameters (Default & Rest)<br>Arrow Functions<br>IIFE (Immediately-Invoked Function Expression)<br>Arguments Object<br>Scope & Function Stack (Recursion, Lexical Scoping & Closures)<br>Built-in Functions
-| JS (Strict Mode) | O que é strict mode?<br>Como habilitar o strict mode<br>Impacto do strict mode em variáveis e funções<br>Usando strict mode com módulos<br>Benefícios e limitações do strict mode
 | JS (Manipulação do DOM)| seleção de elementos<br> manipulação de atributos e conteúdo<br> eventos)
-| JS (Chrome Dev Tools) | Debugging Issues<br>Debugging Memory Leaks<br>Debugging Performance   
-| TS (Exception Handling) | throw<br>try / catch / finally<br>utilizando Error Objects   
-| TS (Variáveis primitivas) | boolean, number, string, void, undefined, null
-| TS (Variáveis compostas)| Object (Interface, Class, Enum, Arrays, Tuples)
-| TS (Variáveis compostas)| Others (any, object, unknown, never) 
-| TS (Assertions) | `as const`<br>`as type`<br>`any`<br><Br>Non-null Assertion<br>satisfies keyword
+| JS (Chrome Dev Tools) | Debugging Issues<br>Debugging Memory Leaks<br>Debugging Performance
+| JS (Asynchronous JS) | Event Loop<br>setTimeout & setInterval<br>Callbacks (Callback Hell)<br>Promises (async / await)
+| JS (Working with APIs) | Utilização de Fetch para fazer chamadas de API
+| TS (Basic Syntax) | boolean, number, string, void, undefined, null
+| TS (Data Types)| Object (Interface, Class, Enum, Arrays, Tuples)<br>Others (any, object, unknown, never)
+| TS (Assertions) | `as const`<br>`as type`<br>`any`<br>Non-null Assertion<br>satisfies keyword
 | TS (Combining Types)| Union Types<br>Intersection Types<br>Type Aliases<br>keyof operator
-| TS (Type Guards / Narrowing) | typeof<br>instanceof
-| TS (Type Guards / Narrowing) | Equality<br>Truthiness<br>Type Predicates
+| TS (Type Guards / Narrowing) | typeof<br>instanceof<br>Equality<br>Truthiness<br>Type Predicates
 | TS (Functions) | Typing Functions<br>Function Overloading
 | TS (Interfaces)| Types vs Interfaces<br>Extending Interfaces<br>Interface Declaration<br>Hybrid Types
 | TS (Classes)| Constructor Params<br>Constructor Overloading<br>Access Modifiers<br>Abstract Classes<br>Inheritance vs Polymorphism<br>Method Overriding
@@ -59,58 +55,48 @@
 | TS (Utility Types)| Partial<br>Pick<br>Omit<br>Readonly<br>Record<br>Exclude<br>Extract<br>NonNullable<br>Parameters<br>ReturnType<br>InstanceType<br>Awaited
 | TS (Modules)| Namespace Argumentation<br>Global argumentation
 | TS (Ecosystem) | Formatting<br>Linting<br>Useful Packages<br>Build Tools
-| TS (Estruturas de decisão) | If.. else
-| TS (Estruturas de escolha) | Switch
-| TS (Estruturas de repetição) | for loop<br>while loop<br>do-while loop<br>break statement<br>continue statement<br>for...in loop<br>for...of loop<br>iterators and generators
-| TS (Using the <u>this</u> keyword) | alone (refers to the global object) <br> in a method (refers to the object that the method is a property of) <br> in a function (refers to the global object in non-strict mode, and is undefined in strict mode) <br> in event handlers (refers to the element that received the event) <br> in arrow functions (inherits the value of this from the enclosing lexical scope) <br> <br>Explicit Binding: <br> `call()` <br> `apply()` <br> `bind()`
-| TS (Asynchronous JS) | Event Loop
-| TS (Asynchronous JS) | setTimeout & setInterval
-| TS (Asynchronous JS) | Callbacks (Callback Hell)<br>Promises (async / await)
-| TS (Working with APIs) | Utilização de Fetch para fazer chamadas de API
-| React (CLI Tools) | Vite
-| React (Functional Components) | Introdução a Functional Components<br>Utilização de hooks em Functional Components<br>Utilização dos componentes de ordem superior em Functional Components
-| React (Components Basics) | Introdução a Componentes<br>Diferença entre componentes de classe e funcionais<br>Criação de componentes reutilizáveis<br>Utilização de props para tornar componentes mais configuráveis<br>Utilização de state para armazenar dados locais em um componente<br>Quando e como utilizar o padrão "Render Props" 
-| React (Rendering) | Introdução ao ciclo de vida dos componentes<br>Utilização de "Listas e Keys"<br>Utilização de "Refs" para acessar elementos DOM<br>Utilização de "Eventos" para manipular o comportamento do usuário<br>Quando e como utilizar componentes de ordem superior
-|React Hooks	|Basic Hooks:<br> - "useState"<br>- "useEffect"<br>- "useContext"<br>- "useReducer"<br>- "useMemo"<br>- "useCallback"<br>- "useRef"<br>- "useLayoutEffect"<br>- "useDebugValue"<br><br>Custom Hooks:<br>- "useId"<br>- "useSyncExternalStore"<br>- "useDeferredValue"<br>- "useInsertionEffect"<br>- "useTransition"<br>- "useImperativeHandle"
-| React (State Management) |Introdução a gerenciamento de estado<Br>Utilização de "Redux" para gerenciamento de estado<Br>Utilização de "Zustand" para gerenciamento de estado<Br>Utilização de "Context API" para compartilhar dados entre componentes<Br>Quando e como utilizar o padrão "Render Props"
-| React (Routers) |Introdução ao roteamento<Br>Utilização do "react-router-dom" para criar rotas em uma aplicação React<Br>Utilização de "Route Guards" para controle de acesso
-| React (Styling) | Introdução a estilização em React<br>Utilização de "CSS Modules" para escopo de estilos<br>Utilização de "Styled Components" para criar estilos em linha<br>Utilização do "Tailwind" e "Material UI" para estilização
-| React (API Calls) | Introdução a realização de chamadas API<br>Utilização do "axios" para fazer chamadas API<br>Utilização de "SWR" e "react-query" para lidar com estado de dados da API
-| React (Testing) | Introdução a testes em React<Br>Utilização de "Jest" e "React Testing Library" para escrever testes automatizados<br>Utilização de "Playwright" para testes E2E
-| React (Framework) | Introdução ao Next.js<br>Utilização do Next.js para renderização do lado do servidor<br>Utilização de "Static Site Generation" com Next.js
-| React (Forms) | Introdução a formulários em React<Br>Utilização do "React Hook Form" para gerenciar formulários  <br>Utilização da biblioteca Zod para validação e transformação de dados
-| Next.js | Estrutura e a arquitetura do Next.js<br>Roteamento, servidor de desenvolvimento e as ferramentas de construção.<br>Páginas do Next.js e criação de rotas<br>Componentes dinâmicos e estáticos<br>Geração de rotas estáticas e dinâmicas<br>Criação de API com Next.js<br> Criação de páginas de erro personalizadas e resolver com erros no Next.js<br>Utilização de bibliotecas externas em Next.js<br>Implementação de autenticação e autorização em Next.js
-| Next.js (Integração com backend)|Integração do Next.js com um backend existente (Django ou Springboot)<br> Como fazer requisições HTTP do Next.js para o backend<br>Como lidar com dados do backend em componentes do Next.js
-| Next.js (Deploy e hospedagem) | Configuração do deploy do Next.js em serviços de hospedagem em CLOUD, como o Vercel<br>Opções de hospedagem para Next.js, incluindo o uso de serviços de hospedagem gerenciada e plataformas de CLOUD.
-| Next.js (Otimização e desempenho)|Otimização do desempenho de um app Next.js<br>Otimização do tamanho das imagens e do carregamento da página<br>Implementação do pré-carregamento de páginas e outros recursos para melhorar a velocidade do app
+| TS (Using the <u>this</u> keyword) | alone (refers to the global object) <br> in a method (refers to the object that the method is a property of) <br> in a function (refers to the global object in non-strict mode, and is undefined in strict mode) <br> in event handlers (refers to the element that received the event) <br> in arrow functions (inherits the value of this from the enclosing lexical scope) <br>Explicit Binding: <br> `call()` <br> `apply()` <br> `bind()`
+| React (Fundamentos) | CLI Tools e Vite<br>Introdução a Functional Components<br>Introdução a Componentes<br>Diferença entre componentes de classe e funcionais<br>Criação de componentes reutilizáveis<br>Utilização de props para tornar componentes mais configuráveis<br>Utilização de state para armazenar dados locais em um componente<br>Introdução ao ciclo de vida dos componentes
+| React (Componentes Avançados) | Utilização de hooks em Functional Components<br>Utilização dos componentes de ordem superior em Functional Components<br>Utilização de "Listas e Keys"<br>Utilização de "Refs" para acessar elementos DOM<br>Utilização de "Eventos" para manipular o comportamento do usuário<br>Quando e como utilizar o padrão "Render Props"
+| React (Hooks) |Basic Hooks:<br> - "useState"<br>- "useEffect"<br>- "useContext"<br>- "useReducer"<br>- "useMemo"<br>- "useCallback"<br>- "useRef"<br>- "useLayoutEffect"<br>- "useDebugValue"<br><br>Custom Hooks:<br>- "useId"<br>- "useSyncExternalStore"<br>- "useDeferredValue"<br>- "useInsertionEffect"<br>- "useTransition"<br>- "useImperativeHandle"
+| React (Gerenciamento de Estado) | Introdução a gerenciamento de estado<Br>Utilização de "Redux" para gerenciamento de estado<Br>Utilização de "Zustand" para gerenciamento de estado<Br>Utilização de "Context API" para compartilhar dados entre componentes
+| React (Roteamento) | Introdução ao roteamento<Br>Utilização do "react-router-dom" para criar rotas em uma aplicação React<Br>Utilização de "Route Guards" para controle de acesso
+| React (Estilização) | Introdução a estilização em React<br>Utilização de "CSS Modules" para escopo de estilos<br>Utilização de "Styled Components" para criar estilos em linha<br>Utilização do "Tailwind" e "Material UI" para estilização
+| React (Integração com API) | Introdução a realização de chamadas API<br>Utilização do "axios" para fazer chamadas API<br>Utilização de "SWR" e "react-query" para lidar com estado de dados da API
+| React (Formulários) | Introdução a formulários em React<Br>Utilização do "React Hook Form" para gerenciar formulários  <br>Utilização da biblioteca Zod para validação e transformação de dados
+| React (Testes) | Introdução a testes em React<Br>Utilização de "Jest" e "React Testing Library" para escrever testes automatizados<br>Utilização de "Playwright" para testes E2E
+| Next.js (Introdução e Fundamentos) | Introdução ao Next.js<br>Utilização do Next.js para renderização do lado do servidor<br>Utilização de "Static Site Generation" com Next.js<br>Estrutura e a arquitetura do Next.js<br>Roteamento, servidor de desenvolvimento e as ferramentas de construção.<br>Páginas do Next.js e criação de rotas<br>Componentes dinâmicos e estáticos<br>Geração de rotas estáticas e dinâmicas
+| Next.js (Recursos Avançados) | Criação de API com Next.js<br> Criação de páginas de erro personalizadas e resolver com erros no Next.js<br>Utilização de bibliotecas externas em Next.js<br>Implementação de autenticação e autorização em Next.js
+| Next.js (Integração com Backend)|Integração do Next.js com um backend existente (Django ou Springboot)<br> Como fazer requisições HTTP do Next.js para o backend<br>Como lidar com dados do backend em componentes do Next.js
+| Next.js (Deploy e Hospedagem) | Configuração do deploy do Next.js em serviços de hospedagem em CLOUD, como o Vercel<br>Opções de hospedagem para Next.js, incluindo o uso de serviços de hospedagem gerenciada e plataformas de CLOUD.
+| Next.js (Otimização e Desempenho)|Otimização do desempenho de um app Next.js<br>Otimização do tamanho das imagens e do carregamento da página<br>Implementação do pré-carregamento de páginas e outros recursos para melhorar a velocidade do app
 |Next.js (Testes) | Teste de aplicativos Next.js<br>Teste de unidade<br>Testes de integração<br>Configuração e execução de testes no ambiente de desenvolvimento
-| PYTHON & JAVA (basic)| clean-code<br>input & print<br>expressões (aritméticas, lógicas e relacionais)<br estruturas de decisão<br> estruturas de escolha<br> estruturas de repetição<br> funções<br> variáveis primitivas<Br> variáveis primitivas (Strings)<br> variáveis compostas  (Collections)<br> variáveis compostas  (OOP)<br> datas e horários<br> manipulação de arquivos<br>testes & manipulação de exceções<br>teste de configuração<br>teste de instalação	<bR>teste de integridade<Br>teste de segurança<br>teste funcional<br>teste de unidade<br>teste de integração<br> teste de volume<br> teste de usabilidade<br> teste de regressão<br>teste de manutenção.	
-| PYTHON & JAVA (intermediate) | <u>estrutura de dados e algoritmos</u><br>- arrays & linked-lists<br>- heaps, stacks & queues<br>- hash tables<br>- binary search trees<br>- recursion<br>- sorting algorithms
-| PYTHON & JAVA (advanced) | - regex<br>- design principles - (S.O.L.I.D)<br>- design patterns - (G.O.F)<br>- TDD & BDD
+| PYTHON & C# (advanced)|
 | DATA MODELLING | - Conceptual<br>- Lógical<br>- Physical
 | DBMS | SQL & NoSQL
-| DJANGO | Configuração do Ambiente Virtual de Desenvolvimento<br>Gerenciador de Pacotes Pip<br>Instalação e Configuração<br>Arquitetura MTV<br>Settings.py
-| DJANGO (URLs)|URL Dispatcher<br>Rotas Dinâmicas<Br>Filters
-| DJANGO (templates) | Introdução aos Templates<br> Tags e Filtros do Django<br> Template Inheritance
-| DJANGO (forms) | Formulários Básicos<br>Formulários com Validação Personalizada<br>Formulários Modelos<br>Formsets|
-| DJANGO (models) | Definição de Modelos<br>Campos de Modelos<br>Relacionamentos de Modelos<br>Métodos de Modelo<br>Administração do Django
-| DJANGO (migrations) | Criação de Migrações<br>Gerenciamento de Migrações
-| DJANGO (views) | Introdução às Views<br>Views Baseadas em Funções<br>Views Baseadas em Classes<br>Class-based Generic Views<br>Pagination<br>API Views
-| DJANGO (auth) | Autenticação de Usuário Django<br>Configuração de Autenticação<br>Permissões de Usuário<br>Autenticação de 2 Fatores<br>Recuperação de Senha
-| DJANGO (admin) | Configuração da Área de Administração do Django<br>Personalização da Área de Administração do Django<br>Uso do Admin Site
-| DJANGO (security) | Configurações de Segurança do Django<br>Cross-Site Scripting (XSS)<br>Cross-Site Request Forgery (CSRF)<br>SQL Injection<br>Clickjacking<br>HTTP Strict Transport Security (HSTS)
-| DJANGO (ORM) |ORM Django<br>SQL Personalizado<br>Gerenciamento de Migrações<br>Administração do Banco de Dados
-| DJANGO (middleware) | Introdução ao Middleware<br> Middleware de Autenticação<br> Middleware de Cache<br> Middleware de Depuração<br> Middleware de Compressão<br> Middleware Personalizado
-| DJANGO (internationalization and localization)	|Internacionalização e Localização<br> Tradução de Texto<br> Formatos de Data e Hora<br> Formatos Numéricos<br> Identificação de Idioma do Usuário<br> Middleware de Internacionalização
-| DJANGO (testing)	|Teste de Unidade em Models, Views e Templates<br> Teste de Integração<br> Teste Funcional<br> Cobertura de Testes<br> Test-Driven Development (TDD)
-| DJANGO (caching) |  Configuração do Cache em Django<br>Cache Local<br>Cache Distribuído com Redis 
-| DJANGO (logging) | Framework de Log (Python Logging & Django-Logging)<br>Gerenciador de Log (ELK Stack e Sentry.io)
-| DJANGO APIs|	REST Framework Django (Criar uma API RESTful utilizando Serializers e Viewsets/Routers)<br>Autenticação e Autorização de API<br>Validação de Entrada de Dados utilizando a biblioteca pytest <br>Tratamento de Erros e Exceções<br>Documentação de APIs com OpenAPI/Swagger<br>Integração de APIs com outros Sistemas e Serviços<br>Testes Automatizados de APIs<br>Segurança de APIs<br>Cache em APIs utilizando Redis<br>Monitoramento de APIs<br>Versionamento de APIs<br>Escalabilidade de APIs com Celery e RabbitMQ<br>Django Channels
-| DJANGO (process task and messages) | Django e Celery para "fila de tarefas" (Worker e Broker)<br>Django Channels para "WebSockets"
-| DJANGO (payments and checkout) | Pagamentos Únicos, Assinaturas e Reembolsos com Stripe<br>Webhooks para Pagamentos e Checkout
-| DJANGO (deploy) | ASGI e WSGI<br>Deploy da Aplicação Django com NGINX, Gunicorn, SSL, Arquivos Estáticos e Banco de dados
+| DJANGO | Instalação e Configuração<br>Configuração do Ambiente Virtual de Desenvolvimento<br>Gerenciador de Pacotes Pip<br>Arquitetura MTV<br>Settings.py<br>Gerenciamento de Comandos Django 
+| DJANGO (URLs)|URL Dispatcher<br>Rotas Dinâmicas<br>Filters<br>Namespaces
+| DJANGO (templates) | Introdução aos Templates<br>Tags e Filtros do Django<br>Template Inheritance<br>Templates responsivos
+| DJANGO (forms) | Formulários Básicos<br>Formulários com Validação Personalizada<br>Formulários Modelos<br>Formsets<br>Formulários com AJAX
+| DJANGO (models) | Definição de Modelos<br>Campos de Modelos<br>Relacionamentos de Modelos<br>Métodos de Modelo<br>Administração do Django<br>Managers e QuerySets
+| DJANGO (migrations) | Criação de Migrações<br>Gerenciamento de Migrações<br>Esquemas de Banco de Dados
+| DJANGO (views) | Introdução às Views<br>Views Baseadas em Funções<br>Views Baseadas em Classes<br>Class-based Generic Views<br>Pagination<br>API Views<br>Views com AJAX
+| DJANGO (auth) | Autenticação de Usuário Django<br>Configuração de Autenticação<br>Permissões de Usuário<br>Autenticação de 2 Fatores<br>Recuperação de Senha<br>Integração com Redes Sociais
+| DJANGO (admin) | Configuração da Área de Administração do Django<br>Personalização da Área de Administração do Django<br>Uso do Admin Site<br>Segurança na Administração
+| DJANGO (security) | Configurações de Segurança do Django<br>Cross-Site Scripting (XSS)<br>Cross-Site Request Forgery (CSRF)<br>SQL Injection<br>Clickjacking<br>HTTP Strict Transport Security (HSTS)<br>Implementando HTTPS
+| DJANGO (ORM) |ORM Django<br>SQL Personalizado<br>Gerenciamento de Migrações<br>Administração do Banco de Dados<br>Optimização de Queries
+| DJANGO (middleware) | Introdução ao Middleware<br>Middleware de Autenticação<br>Middleware de Cache<br>Middleware de Depuração<br>Middleware de Compressão<br>Middleware Personalizado
+| DJANGO (internationalization and localization)	|Internacionalização e Localização<br>Tradução de Texto<br>Formatos de Data e Hora<br>Formatos Numéricos<br>Identificação de Idioma do Usuário<br>Middleware de Internacionalização
+| DJANGO (testing)	|Teste de Unidade em Models, Views e Templates<br>Teste de Integração<br>Teste Funcional<br>Cobertura de Testes<br>Test-Driven Development (TDD)<br>Mocking e Stubbing
+| DJANGO (caching) |  Configuração do Cache em Django<br>Cache Local<br>Cache Distribuído com Redis<br>Cache Page, View e Template
+| DJANGO (logging) | Framework de Log (Python Logging & Django-Logging)<br>Gerenciador de Log (ELK Stack e Sentry.io)<br>Registro de Auditoria
+| DJANGO APIs|	REST Framework Django (Criar uma API RESTful utilizando Serializers e Viewsets/Routers)<br>Autenticação e Autorização de API<br>Validação de Entrada de Dados utilizando a biblioteca pytest <br>Tratamento de Erros e Exceções<br>Documentação de APIs com OpenAPI/Swagger<br>Integração de APIs com outros Sistemas e Serviços<br>Testes Automatizados de APIs<br>Segurança de APIs<br>Cache em APIs utilizando Redis<br>Monitoramento de APIs<br>Versionamento de APIs<br>Escalabilidade de APIs com Celery e RabbitMQ<br>Django Channels<br>GraphQL com Django
+| DJANGO (process task and messages) | Django e Celery para "fila de tarefas" (Worker e Broker)<br>Django Channels para "WebSockets"<br>Integração com sistemas de mensageria (RabbitMQ, Kafka)
+| DJANGO (payments and checkout) | Pagamentos Únicos, Assinaturas e Reembolsos com Stripe<br>Webhooks para Pagamentos e Checkout<br>Segurança em transações financeiras
+| DJANGO (deploy) | ASGI e WSGI<br>Deploy da Aplicação Django com NGINX, Gunicorn, SSL, Arquivos Estáticos e Banco de dados<br>Deploy com Docker e Kubernetes<br>Deploy em Plataformas Cloud (AWS, Google Cloud, Azure)
 | DJANGO (escalabilidade c/ Celery + Message Broker) | **Celery + RabbitMQ, Redis, Amazon SQS ou Apache Kafka**<br>- Gerenciar a comunicação entre diferentes componentes do sistema<br>- Criar e gerenciar filas de mensagens <br> - Integração com outros sistemas <br> - Prover alta disponibilidade e escalabilidade
-| DJANGO (performance c/ Prometheus ou New Relic)	|Introdução à Performance<br> Identificação de gargalos de performance<br> Ferramentas de Monitoramento de Performance<br> Melhores práticas para Melhorar a Performance do Django
+| DJANGO (performance c/ Prometheus ou New Relic)	|Introdução à Performance<br>Identificação de gargalos de performance<br>Ferramentas de Monitoramento de Performance<br>Melhores práticas para Melhorar a Performance do Django<br>Aceleração de Aplicações com CDN<br>Técnicas de otimização de BD
+| DJANGO (misc) | Trabalho com Arquivos Estáticos e Media<br>Integração com outras bibliotecas Python<br>Extensões recomendadas para Django<br>Desenvolvimento orientado à acessibilidade
 | CONTAINERS <br>(Docker) | Criação e gerenciamento de containers que executam o software
 | CONTAINERS ORCHESTRATION <br>(Kubernetes c/ Helm) | Implantar o sistema em múltiplos containers e gerenciá-los em escala
 | INFRA PROVISIONING <br>(Terraform)|Provisionar a infraestrutura necessária para o sistema, como instâncias EC2 na AWS ou VMs no Azure
