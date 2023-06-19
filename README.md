@@ -106,7 +106,7 @@
 | INFRA MONITORING<br>(Prometheus, Datadog, Sentry ou Graphana) | Coletar métricas e logs para monitorar o sistema em tempo real e identificar problemas de performance e disponibilidade<br>Configurar alertas e monitoramento proativo
 | DATA GOVERNANCE  | Implementar controles de acesso e auditoria de dados para garantir a segurança e conformidade do sistema|
 
-# Guia de tecnologias que utilizo para pipelines de dados ETL:
+#### Guia de tecnologias que utilizo para pipelines de dados ETL:
 
 |**DATA SOURCES** |  Data Ingestion |  Data Processing |  Data Storage |  Workflow scheduling| Monitoring data pipelines | 
 | :--- | :-- | :-- |  :-- | :-- | :-- | 
