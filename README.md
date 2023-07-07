@@ -73,30 +73,31 @@
 |Next.js (Testes) | Teste de aplicativos Next.js<br>Teste de unidade<br>Testes de integração<br>Configuração e execução de testes no ambiente de desenvolvimento
 | PYTHON & C# (advanced)|
 | DATA MODELLING | - Conceptual<br>- Lógical<br>- Physical
-| DBMS | SQL & NoSQL
-| DJANGO | Instalação e Configuração<br>Configuração do Ambiente Virtual de Desenvolvimento<br>Gerenciador de Pacotes Pip<br>Arquitetura MTV<br>Settings.py<br>Gerenciamento de Comandos Django 
-| DJANGO (URLs)|URL Dispatcher<br>Rotas Dinâmicas<br>Filters<br>Namespaces
-| DJANGO (templates) | Introdução aos Templates<br>Tags e Filtros do Django<br>Template Inheritance<br>Templates responsivos
-| DJANGO (forms) | Formulários Básicos<br>Formulários com Validação Personalizada<br>Formulários Modelos<br>Formsets<br>Formulários com AJAX
-| DJANGO (models) | Definição de Modelos<br>Campos de Modelos<br>Relacionamentos de Modelos<br>Métodos de Modelo<br>Administração do Django<br>Managers e QuerySets
-| DJANGO (migrations) | Criação de Migrações<br>Gerenciamento de Migrações<br>Esquemas de Banco de Dados
-| DJANGO (views) | Introdução às Views<br>Views Baseadas em Funções<br>Views Baseadas em Classes<br>Class-based Generic Views<br>Pagination<br>API Views<br>Views com AJAX
-| DJANGO (auth) | Autenticação de Usuário Django<br>Configuração de Autenticação<br>Permissões de Usuário<br>Autenticação de 2 Fatores<br>Recuperação de Senha<br>Integração com Redes Sociais
-| DJANGO (admin) | Configuração da Área de Administração do Django<br>Personalização da Área de Administração do Django<br>Uso do Admin Site<br>Segurança na Administração
-| DJANGO (security) | Configurações de Segurança do Django<br>Cross-Site Scripting (XSS)<br>Cross-Site Request Forgery (CSRF)<br>SQL Injection<br>Clickjacking<br>HTTP Strict Transport Security (HSTS)<br>Implementando HTTPS
-| DJANGO (ORM) |ORM Django<br>SQL Personalizado<br>Gerenciamento de Migrações<br>Administração do Banco de Dados<br>Optimização de Queries
-| DJANGO (middleware) | Introdução ao Middleware<br>Middleware de Autenticação<br>Middleware de Cache<br>Middleware de Depuração<br>Middleware de Compressão<br>Middleware Personalizado
-| DJANGO (internationalization and localization)	|Internacionalização e Localização<br>Tradução de Texto<br>Formatos de Data e Hora<br>Formatos Numéricos<br>Identificação de Idioma do Usuário<br>Middleware de Internacionalização
-| DJANGO (testing)	|Teste de Unidade em Models, Views e Templates<br>Teste de Integração<br>Teste Funcional<br>Cobertura de Testes<br>Test-Driven Development (TDD)<br>Mocking e Stubbing
-| DJANGO (caching) |  Configuração do Cache em Django<br>Cache Local<br>Cache Distribuído com Redis<br>Cache Page, View e Template
-| DJANGO (logging) | Framework de Log (Python Logging & Django-Logging)<br>Gerenciador de Log (ELK Stack e Sentry.io)<br>Registro de Auditoria
-| DJANGO APIs|	REST Framework Django (Criar uma API RESTful utilizando Serializers e Viewsets/Routers)<br>Autenticação e Autorização de API<br>Validação de Entrada de Dados utilizando a biblioteca pytest <br>Tratamento de Erros e Exceções<br>Documentação de APIs com OpenAPI/Swagger<br>Integração de APIs com outros Sistemas e Serviços<br>Testes Automatizados de APIs<br>Segurança de APIs<br>Cache em APIs utilizando Redis<br>Monitoramento de APIs<br>Versionamento de APIs<br>Escalabilidade de APIs com Celery e RabbitMQ<br>Django Channels<br>GraphQL com Django
-| DJANGO (process task and messages) | Django e Celery para "fila de tarefas" (Worker e Broker)<br>Django Channels para "WebSockets"<br>Integração com sistemas de mensageria (RabbitMQ, Kafka)
-| DJANGO (payments and checkout) | Pagamentos Únicos, Assinaturas e Reembolsos com Stripe<br>Webhooks para Pagamentos e Checkout<br>Segurança em transações financeiras
-| DJANGO (deploy) | ASGI e WSGI<br>Deploy da Aplicação Django com NGINX, Gunicorn, SSL, Arquivos Estáticos e Banco de dados<br>Deploy com Docker e Kubernetes<br>Deploy em Plataformas Cloud (AWS, Google Cloud, Azure)
-| DJANGO (escalabilidade c/ Celery + Message Broker) | **Celery + RabbitMQ, Redis, Amazon SQS ou Apache Kafka**<br>- Gerenciar a comunicação entre diferentes componentes do sistema<br>- Criar e gerenciar filas de mensagens <br> - Integração com outros sistemas <br> - Prover alta disponibilidade e escalabilidade
-| DJANGO (performance c/ Prometheus ou New Relic)	|Introdução à Performance<br>Identificação de gargalos de performance<br>Ferramentas de Monitoramento de Performance<br>Melhores práticas para Melhorar a Performance do Django<br>Aceleração de Aplicações com CDN<br>Técnicas de otimização de BD
-| DJANGO (misc) | Trabalho com Arquivos Estáticos e Media<br>Integração com outras bibliotecas Python<br>Extensões recomendadas para Django<br>Desenvolvimento orientado à acessibilidade
+| DBMS | SQL & NoSQL|Conteúdos que irei abordar no livro||
+| :-- | :-- | 
+| .NET CORE (Configuração e Fundamentos) | Configuração do Ambiente de Desenvolvimento<br>Entendendo a Estrutura de um Projeto .NET Core<br>Compreendendo o pipeline de processamento de requisições HTTP no ASP.NET Core<br>Startup Class e Services Configuration<br>Injeção de Dependência no .NET Core<br>Trabalhando com Configurações e Secrets<br>.NET CLI |
+| .NET CORE MVC | Conceito MVC (Model-View-Controller)<br>Roteamento no ASP.NET Core MVC<br>Controllers e Actions<br>Views e Razor Syntax<br>Model Binding e Validation<br>Layouts, ViewStart e ViewImports<br>Partial Views e View Components<br>Tag Helpers e HTML Helpers<br>Data Annotations e ViewModels<br>Trabalhando com Cookies e Sessions
+| .NET CORE WEB API | Criando uma Web API<br>Entendendo o protocolo HTTP e os verbos REST<br>Model Binding em APIs<br>Validação em APIs<br>Content Negotiation<br>Versionamento de API<br>Documentação de APIs com Swagger/OpenAPI<br>Trabalhando com JSON e XML<br>Filtros de Ação e Resultados<br>Middleware para tratamento de erros
+| .NET CORE (Authentication and Authorization) | Configuração de Autenticação e Autorização<br>Identity Core<br>Policy-Based e Claims-Based Authorization<br>Autenticação por JWT<br>OAuth 2.0 e OpenID Connect<br>Trabalhando com Roles<br>Autenticação Social (Facebook, Google, etc.)<br>Proteção de APIs com Bearer Tokens
+| ENTITY FRAMEWORK CORE | Configuração e Introdução<br>DbContext e Models<br>Queries: Linq e Raw SQL<br>Migrations e Seeding<br>Trabalhando com Relações (Um para um, um para muitos, muitos para muitos)<br>Lazy Loading, Eager Loading e Explicit Loading<br>Trabalhando com Transações
+| .NET CORE (ORM) | Dapper
+| .NET Core (Best Practices) | Princípios SOLID<br>DRY<br>Clean Code<br>Clean Architecture |
+| .NET CORE (Error Handling) | Lidando com erros em tempo de desenvolvimento e produção<br>Middleware para tratamento de erros<br>Logging e Diagnóstico<br>Health Checks<br>Trabalhando com Logging Providers<br>Exceções Personalizadas
+| .NET CORE (Testing) | Unit Testing com xUnit<br>Integration Testing<br>Mocking com Moq<br>Test-Driven Development (TDD)<br>Testes de Performance<br>Testes de Segurança<br>Testes de Carga e Stress
+| .NET Core (Design Patterns) | Padrões de Design .NET |
+| .NET CORE (Advanced Topics) | Middleware Customizado<br>Dependency Injection Avançado<br>Filtros<br>Extensão de Model Binding<br>Configuração Avançada<br>Segurança Avançada<br>Trabalhando com Reflection<br>Trabalhando com Tasks e Parallel Programming
+| .NET CORE (Performance) | Monitoramento de Performance<br>Profiling e Diagnóstico<br>Optimização de Performance<br>Otimização de EF Core<br>Gerenciamento de Concorrência<br>Caching e Distribuição de Cache
+| .NET Core (Caching) | In-Memory Cache<br>Distributed Cache com Redis ou NCache |
+| .NET CORE (Logging) | Serilog<br>NLog
+| .NET Core (Misc) | Conexões Seguras (HTTPS/SSL/TLS)<br>XML Processing (System.Xml, LINQ to XML)<br>Lidar com CSV e Excel<br>System.Text.Json e Newtonsoft.Json<br>Xamarin (para desenvolvimento de aplicativos móveis)<br>ML.NET (para machine learning)<br>Azure Cognitive Services (para AI e machine learning) |
+| .NET CORE (Integration) | Integração com Bancos de Dados não-SQL (ex. Cosmos DB, MongoDB)<br>Integração com front-end frameworks (React.js, Angular, Vue.js) |
+| .NET CORE (Cloud) | Azure SDKs para .NET<br>Azure Functions<br>Azure Logic Apps<br>Azure Service Bus e Azure Event Hubs
+| .NET CORE (Deploy) | Publicação da Aplicação<br>Containers com Docker<br>Deploy em Plataformas Cloud (Azure, AWS, Google Cloud)<br>CI/CD com Azure DevOps e GitHub Actions<br>Trabalhando com Application Insights<br>Gerenciamento de Configuração em Produção<br>SSL e Segurança em Produção<br>Deploy com IIS
+| .NET CORE (Real-Time Applications) | SignalR<br>WebSocket<br>Aplicações de tempo real e jogos<br>Gerenciamento de Conexões e Grupos<br>Trabalhando com Backplanes
+| .NET CORE (Microservices) | Introdução a Microservices<br>Comunicação entre Microservices<br>Padrões de Design de Microservices<br>Deploy de Microservices<br>Gerenciamento de Identidade em Microservices<br>Balanceamento de Carga e Descoberta de Serviços<br>Resiliência e Tolerância a Falhas<br>Orquestração de Microservices com Kubernetes
+| .NET CORE (gRPC) | Introdução a gRPC<br>Contratos de serviço gRPC<br>Chamadas gRPC<br>Segurança em gRPC<br>Performance em gRPC
+| .NET CORE (Blazor) | Blazor Server<br>Blazor WebAssembly<br>Componentes, Roteamento, Estado<br>JavaScript Interop<br>Deploy de Aplicações Blazor<br>Blazor PWA<br>Autenticação em Blazor
+| .NET CORE (Event Handling) | Domain Driven Design (DDD) e Event Sourcing
 | CONTAINERS <br>(Docker) | Criação e gerenciamento de containers que executam o software
 | CONTAINERS ORCHESTRATION <br>(Kubernetes c/ Helm) | Implantar o sistema em múltiplos containers e gerenciá-los em escala
 | INFRA PROVISIONING <br>(Terraform)|Provisionar a infraestrutura necessária para o sistema, como instâncias EC2 na AWS ou VMs no Azure
