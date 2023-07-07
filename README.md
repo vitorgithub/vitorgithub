@@ -72,6 +72,7 @@
 | Next.js (Otimização e Desempenho)|Otimização do desempenho de um app Next.js<br>Otimização do tamanho das imagens e do carregamento da página<br>Implementação do pré-carregamento de páginas e outros recursos para melhorar a velocidade do app
 |Next.js (Testes) | Teste de aplicativos Next.js<br>Teste de unidade<br>Testes de integração<br>Configuração e execução de testes no ambiente de desenvolvimento
 | PYTHON & C# (advanced)|
+| UML (Diagramas)| - Estruturais<br>- Comportamentais<br> - De Arquitetura<br>- De Entidade Relacionamento (ER)
 | DATA MODELLING | - Conceptual<br>- Lógical<br>- Physical
 | DBMS | SQL & NoSQL|Conteúdos que irei abordar no livro|
 | .NET CORE (Configuração e Fundamentos) | Configuração do Ambiente de Desenvolvimento<br>Entendendo a Estrutura de um Projeto .NET Core<br>Compreendendo o pipeline de processamento de requisições HTTP no ASP.NET Core<br>Startup Class e Services Configuration<br>Injeção de Dependência no .NET Core<br>Trabalhando com Configurações e Secrets<br>.NET CLI |
