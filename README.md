@@ -71,10 +71,10 @@
 | Next.js (Deploy e Hospedagem) | Configuração do deploy do Next.js em serviços de hospedagem em CLOUD, como o Vercel<br>Opções de hospedagem para Next.js, incluindo o uso de serviços de hospedagem gerenciada e plataformas de CLOUD.
 | Next.js (Otimização e Desempenho)|Otimização do desempenho de um app Next.js<br>Otimização do tamanho das imagens e do carregamento da página<br>Implementação do pré-carregamento de páginas e outros recursos para melhorar a velocidade do app
 |Next.js (Testes) | Teste de aplicativos Next.js<br>Teste de unidade<br>Testes de integração<br>Configuração e execução de testes no ambiente de desenvolvimento
-| PYTHON & C# (advanced)|
 | UML (Diagramas)| - Estruturais<br>- Comportamentais<br> - De Arquitetura<br>- De Entidade Relacionamento (ER)
 | DATA MODELLING | - Conceptual<br>- Lógical<br>- Physical
 | DBMS | SQL & NoSQL|Conteúdos que irei abordar no livro|
+| PYTHON & C# (advanced)|
 | .NET CORE (Configuração e Fundamentos) | Configuração do Ambiente de Desenvolvimento<br>Entendendo a Estrutura de um Projeto .NET Core<br>Compreendendo o pipeline de processamento de requisições HTTP no ASP.NET Core<br>Startup Class e Services Configuration<br>Injeção de Dependência no .NET Core<br>Trabalhando com Configurações e Secrets<br>.NET CLI |
 | .NET CORE MVC | Conceito MVC (Model-View-Controller)<br>Roteamento no ASP.NET Core MVC<br>Controllers e Actions<br>Views e Razor Syntax<br>Model Binding e Validation<br>Layouts, ViewStart e ViewImports<br>Partial Views e View Components<br>Tag Helpers e HTML Helpers<br>Data Annotations e ViewModels<br>Trabalhando com Cookies e Sessions
 | .NET CORE WEB API | Criando uma Web API<br>Entendendo o protocolo HTTP e os verbos REST<br>Model Binding em APIs<br>Validação em APIs<br>Content Negotiation<br>Versionamento de API<br>Documentação de APIs com Swagger/OpenAPI<br>Trabalhando com JSON e XML<br>Filtros de Ação e Resultados<br>Middleware para tratamento de erros
