@@ -74,30 +74,30 @@
 | UML (Diagramas)| - Estruturais<br>- Comportamentais<br> - De Arquitetura<br>- De Entidade Relacionamento (ER)
 | DATA MODELLING | - Conceptual<br>- Lógical<br>- Physical
 | DBMS | SQL & NoSQL|Conteúdos que irei abordar no livro|
-| PYTHON & C# (advanced)|
-| .NET CORE (Configuração e Fundamentos) | Configuração do Ambiente de Desenvolvimento<br>Entendendo a Estrutura de um Projeto .NET Core<br>Compreendendo o pipeline de processamento de requisições HTTP no ASP.NET Core<br>Startup Class e Services Configuration<br>Injeção de Dependência no .NET Core<br>Trabalhando com Configurações e Secrets<br>.NET CLI |
+| C# (advanced)|
+| .NET CORE (Configuração e Fundamentos) | Configuração do Ambiente de Desenvolvimento<br>Entendendo a Estrutura de um Projeto .NET Core<br>Compreendendo o pipeline de processamento de requisições HTTP no ASP.NET Core<br>Startup Class e Services Configuration<br>Injeção de Dependência no .NET Core<br>Trabalhando com Configurações e Secrets<br>.NET CLI<br>Hot Reload |
 | .NET CORE MVC | Conceito MVC (Model-View-Controller)<br>Roteamento no ASP.NET Core MVC<br>Controllers e Actions<br>Views e Razor Syntax<br>Model Binding e Validation<br>Layouts, ViewStart e ViewImports<br>Partial Views e View Components<br>Tag Helpers e HTML Helpers<br>Data Annotations e ViewModels<br>Trabalhando com Cookies e Sessions
-| .NET CORE WEB API | Criando uma Web API<br>Entendendo o protocolo HTTP e os verbos REST<br>Model Binding em APIs<br>Validação em APIs<br>Content Negotiation<br>Versionamento de API<br>Documentação de APIs com Swagger/OpenAPI<br>Trabalhando com JSON e XML<br>Filtros de Ação e Resultados<br>Middleware para tratamento de erros
+| .NET CORE WEB API | Criando uma Web API<br>Minimal APIs<br>Entendendo o protocolo HTTP e os verbos REST<br>Model Binding em APIs<br>Validação em APIs<br>Content Negotiation<br>Versionamento de API<br>Documentação de APIs com Swagger/OpenAPI<br>Trabalhando com JSON e XML<br>Filtros de Ação e Resultados<br>Middleware para tratamento de erros
 | .NET CORE (Authentication and Authorization) | Configuração de Autenticação e Autorização<br>Identity Core<br>Policy-Based e Claims-Based Authorization<br>Autenticação por JWT<br>OAuth 2.0 e OpenID Connect<br>Trabalhando com Roles<br>Autenticação Social (Facebook, Google, etc.)<br>Proteção de APIs com Bearer Tokens
 | ENTITY FRAMEWORK CORE | Configuração e Introdução<br>DbContext e Models<br>Queries: Linq e Raw SQL<br>Migrations e Seeding<br>Trabalhando com Relações (Um para um, um para muitos, muitos para muitos)<br>Lazy Loading, Eager Loading e Explicit Loading<br>Trabalhando com Transações
-| .NET CORE (ORM) | Dapper
+| .NET CORE (ORM) | Dapper<br>NHibernate |
 | .NET Core (Best Practices) | Princípios SOLID<br>DRY<br>Clean Code<br>Clean Architecture |
 | .NET CORE (Error Handling) | Lidando com erros em tempo de desenvolvimento e produção<br>Middleware para tratamento de erros<br>Logging e Diagnóstico<br>Health Checks<br>Trabalhando com Logging Providers<br>Exceções Personalizadas
-| .NET CORE (Testing) | Unit Testing com xUnit<br>Integration Testing<br>Mocking com Moq<br>Test-Driven Development (TDD)<br>Testes de Performance<br>Testes de Segurança<br>Testes de Carga e Stress
-| .NET Core (Design Patterns) | Padrões de Design .NET |
+| .NET CORE (Testing) | Unit Testing com xUnit<br>Integration Testing<br>Mocking com Moq<br>Test-Driven Development (TDD)<br>Behavior-Driven Development (BDD)<br>Testes de Performance<br>Testes de Segurança<br>Testes de Carga e Stress
+| .NET Core (Design Patterns) | Padrões de Design relevantes: Singleton, Factory, Decorator, Strategy, etc. |
 | .NET CORE (Advanced Topics) | Middleware Customizado<br>Dependency Injection Avançado<br>Filtros<br>Extensão de Model Binding<br>Configuração Avançada<br>Segurança Avançada<br>Trabalhando com Reflection<br>Trabalhando com Tasks e Parallel Programming
 | .NET CORE (Performance) | Monitoramento de Performance<br>Profiling e Diagnóstico<br>Optimização de Performance<br>Otimização de EF Core<br>Gerenciamento de Concorrência<br>Caching e Distribuição de Cache
 | .NET Core (Caching) | In-Memory Cache<br>Distributed Cache com Redis ou NCache |
 | .NET CORE (Logging) | Serilog<br>NLog
 | .NET Core (Misc) | Conexões Seguras (HTTPS/SSL/TLS)<br>XML Processing (System.Xml, LINQ to XML)<br>Lidar com CSV e Excel<br>System.Text.Json e Newtonsoft.Json<br>Xamarin (para desenvolvimento de aplicativos móveis)<br>ML.NET (para machine learning)<br>Azure Cognitive Services (para AI e machine learning) |
-| .NET CORE (Integration) | Integração com Bancos de Dados não-SQL (ex. Cosmos DB, MongoDB)<br>Integração com front-end frameworks (React.js, Angular, Vue.js) |
-| .NET CORE (Cloud) | Azure SDKs para .NET<br>Azure Functions<br>Azure Logic Apps<br>Azure Service Bus e Azure Event Hubs
+| .NET CORE (Integration) | Integração com Bancos de Dados não-SQL (ex. Cosmos DB, MongoDB)<br>Integração com serviços de mensagens e enfileiramento (RabbitMQ, Kafka, Azure Service Bus, AWS SQS/SNS)<br>Integração com front-end frameworks (React.js, Angular, Vue.js) |
+| .NET CORE (Cloud) | Azure SDKs para .NET<br>Azure Functions<br>Azure Logic Apps<br>Azure Service Bus e Azure Event Hubs<br>AWS SDKs para .NET e serviços equivalentes<br>Google Cloud SDKs para .NET e serviços equivalentes |
 | .NET CORE (Deploy) | Publicação da Aplicação<br>Containers com Docker<br>Deploy em Plataformas Cloud (Azure, AWS, Google Cloud)<br>CI/CD com Azure DevOps e GitHub Actions<br>Trabalhando com Application Insights<br>Gerenciamento de Configuração em Produção<br>SSL e Segurança em Produção<br>Deploy com IIS
-| .NET CORE (Real-Time Applications) | SignalR<br>WebSocket<br>Aplicações de tempo real e jogos<br>Gerenciamento de Conexões e Grupos<br>Trabalhando com Backplanes
-| .NET CORE (Microservices) | Introdução a Microservices<br>Comunicação entre Microservices<br>Padrões de Design de Microservices<br>Deploy de Microservices<br>Gerenciamento de Identidade em Microservices<br>Balanceamento de Carga e Descoberta de Serviços<br>Resiliência e Tolerância a Falhas<br>Orquestração de Microservices com Kubernetes
+| .NET CORE (Real-Time Applications) | SignalR<br>WebSocket<br>gRPC e RSocket<br>Aplicações de tempo real e jogos<br>Gerenciamento de Conexões e Grupos<br>Trabalhando com Backplanes
+| .NET CORE (Microservices) | Introdução a Microservices<br>Comunicação entre Microservices<br>Padrões de Design de Microservices<br>Deploy de Microservices<br>Gerenciamento de Identidade em Microservices<br>Balanceamento de Carga e Descoberta de Serviços<br>Resiliência e Tolerância a Falhas<br>Orquestração de Microservices com Kubernetes<br>Integração de microserviços com gateways de API (como Ocelot ou Azure API Gateway) |
 | .NET CORE (gRPC) | Introdução a gRPC<br>Contratos de serviço gRPC<br>Chamadas gRPC<br>Segurança em gRPC<br>Performance em gRPC
 | .NET CORE (Blazor) | Blazor Server<br>Blazor WebAssembly<br>Componentes, Roteamento, Estado<br>JavaScript Interop<br>Deploy de Aplicações Blazor<br>Blazor PWA<br>Autenticação em Blazor
-| .NET CORE (Event Handling) | Domain Driven Design (DDD) e Event Sourcing
+| .NET CORE (Event Handling) | Domain Driven Design (DDD) e Event Sourcing |
 | CONTAINERS <br>(Docker) | Criação e gerenciamento de containers que executam o software
 | CONTAINERS ORCHESTRATION <br>(Kubernetes c/ Helm) | Implantar o sistema em múltiplos containers e gerenciá-los em escala
 | INFRA PROVISIONING <br>(Terraform)|Provisionar a infraestrutura necessária para o sistema, como instâncias EC2 na AWS ou VMs no Azure
