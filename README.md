@@ -80,10 +80,10 @@
 | .NET CORE (Advanced Topics) | APIs RESTful Avançadas e Design de API<br>Desenvolvimento de APIs GraphQL<br>ASP.NET Core SignalR<br>Desenvolvimento Fullstack com ASP.NET Core e Angular<br>Tópicos Avançados em .NET Core
 | .NET CORE (Gerenciamento de Estado e Sessão) | Conceitos de estado e sessão<br>Gerenciamento de estado e sessão em .NET Core |
 | .NET6 (Code Patterns & Code Review) | Importância e Implementação dos padrões de código<br>Implementação de revisões de código<br>Ferramentas para revisão de código
-| .NET6 (Monitoring & Otimization)|Performance, Caching e Logging<br>Gerenciamento de concorrência, Caching e distribuição de Cache<br>Monitoramento, profiling, diagnóstico e otimização de performance 
-| .NET6 (Deploy, Maintenance & Cloud)|Estratégias de Deploy e publicação em diferentes ambientes<br>Integração contínua com GitHub Actions e conexões seguras<br>Monitoramento, Logging, Caching e trabalhando com bancos de dados NoSQL<br>Desenvolvimento em Cloud com Azure SDKs para .NET
-| .NET6 (Integration) | XML Processing e integração com tecnologias diversas (CSV, Excel, Xamarin, ML.NET, Azure Cognitive Services)<br>Integração com front-end frameworks (React.js, Angular, Vue.js) 
-| .NET6 (DevOps)|Introdução ao DevOps<br>CI/CD com GitHub Actions e Azure DevOps<br>Infraestrutura como código (IaC) com Terraform e ARM Templates<br>Monitoramento e diagnóstico com Azure Monitor e Application Insights<br>Governança e compliance com Azure Policy e Azure Blueprints<br>Automatização de Testes e Integração Contínua<br>Integração de testes automatizados no pipeline de CI/CD
+| .NET6 (Monitoring & Otimization)|Performance, Caching e Logging<br>Gerenciamento de concorrência, Caching e distribuição de Cache<br>Monitoramento, profiling, diagnóstico e otimização de performance
+| .NET6 (Deploy, Maintenance & Cloud)|Estratégias de Deploy e publicação em diferentes ambientes<br>Monitoramento, Logging, Caching e trabalhando com bancos de dados NoSQL<br>Desenvolvimento em Cloud com Azure SDKs para .NET
+| .NET6 (Integration) | XML Processing e integração com tecnologias diversas (CSV, Excel, Xamarin, ML.NET, Azure Cognitive Services)<br>Integração com front-end frameworks (React.js, Angular, Vue.js)
+| .NET6 (DevOps)|Introdução ao DevOps<br>Infraestrutura como código (IaC) com Terraform e ARM Templates<br>Monitoramento e diagnóstico com Azure Monitor e Application Insights<br>Governança e compliance com Azure Policy e Azure Blueprints<br>Automatização de Testes e Integração Contínua<br>Integração de testes automatizados no pipeline de CI/CD
 | .NET CORE (Microservices) | Introdução a Microservices<br>Comunicação entre Microservices<br>Padrões de Design de Microservices<br>Deploy de Microservices<br>Gerenciamento de Identidade em Microservices<br>Balanceamento de Carga e Descoberta de Serviços<br>Resiliência e Tolerância a Falhas<br>Orquestração de Microservices com Kubernetes
 | .NET CORE (Blazor) | Blazor Server<br>Blazor WebAssembly<br>Componentes, Roteamento, Estado<br>JavaScript Interop<br>Deploy de Aplicações Blazor<br>Blazor PWA<br>Autenticação em Blazor
 | .NET CORE (Event Handling) | Domain Driven Design (DDD) e Event Sourcing
@@ -91,10 +91,9 @@
 | CONTAINERS ORCHESTRATION <br>(Kubernetes c/ Helm) | Implantar o sistema em múltiplos containers e gerenciá-los em escala
 | INFRA PROVISIONING <br>(Terraform)|Provisionar a infraestrutura necessária para o sistema, como instâncias EC2 na AWS ou VMs no Azure
 | CONFIG MANAGEMENT <br>(Ansible with YAML)	| Gerenciar a configuração dos servidores e garantir que todas as dependências necessárias estejam instaladas
-| CI/CD<br>(GitHub Actions, GitLab CI) | Garantir a qualidade do código<br>Automatizar testes<br>Entregar novas versões rapidamente
-| WORKFLOW SCHEDULING<Br>(Apache Airflow)|Definir um fluxo de trabalho para o desenvolvimento do software e agendar as tarefas de acordo com as dependências
 | INFRA MONITORING<br>(Prometheus, Datadog, Sentry ou Graphana) | Coletar métricas e logs para monitorar o sistema em tempo real e identificar problemas de performance e disponibilidade<br>Configurar alertas e monitoramento proativo
 | DATA GOVERNANCE  | Implementar controles de acesso e auditoria de dados para garantir a segurança e conformidade do sistema|
+| WORKFLOW SCHEDULING<Br>(Apache Airflow)|Definir um fluxo de trabalho para o desenvolvimento do software e agendar as tarefas de acordo com as dependências
 
 #### Guia de tecnologias que utilizo para pipelines de dados ETL:
 
