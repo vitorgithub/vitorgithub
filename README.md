@@ -67,8 +67,8 @@
 | Next.js (Deploy e Hospedagem) | Configuração do deploy do Next.js em serviços de hospedagem em CLOUD, como o Vercel<br>Opções de hospedagem para Next.js, incluindo o uso de serviços de hospedagem gerenciada e plataformas de CLOUD.
 | Next.js (Otimização e Desempenho)|Otimização do desempenho de um app Next.js<br>Otimização do tamanho das imagens e do carregamento da página<br>Implementação do pré-carregamento de páginas e outros recursos para melhorar a velocidade do app
 |Next.js (Testes) | Teste de aplicativos Next.js<br>Teste de unidade<br>Testes de integração<br>Configuração e execução de testes no ambiente de desenvolvimento
-| UML (Diagramas)| - Estruturais<br>- Comportamentais<br> - De Arquitetura<br>- De Entidade Relacionamento (ER)
-| DATA MODELLING | - Conceptual<br>- Lógical<br>- Physical
+| UML (Diagramas)| - Estruturais<br>- Comportamentais<br> - De Arquitetura<br>
+| DATA MODELLING | - Conceptual ("DER" Diagrama Entidade Relacionamento)<br> - Lógical ("MER" Modelagem Entidade Relacionamento)<br> - Physical
 | DBMS | SQL & NoSQL|
 | C# (advanced)
 | .NET CORE (Configuração e Fundamentos) |Configuração do ambiente de desenvolvimento<br>Entendendo a estrutura de um projeto .NET Core<br>Pipeline de processamento de requisições HTTP no ASP.NET Core<br>Startup Class, Services Configuration e Injeção de Dependência<br>Trabalhando com Configurações, Secrets e .NET CLI  |
