@@ -4,7 +4,6 @@
           
 - 🌎 **```Engenharia de Software & Engenharia de Dados;```**
 - 🔎 **```Autodidata, analítico, multidisciplinar e detalhista;```**
-- ⏰ **```Estudo entre 10 a 14 horas diariamente;```**
 - 🧐 **```Crio e desenvolvo documentos autorais teóricos e práticos de estudo;```** 
 - 📖 **```Minhas referências: (Documentações oficiais, livros e cursos qualificados);```** 
 
